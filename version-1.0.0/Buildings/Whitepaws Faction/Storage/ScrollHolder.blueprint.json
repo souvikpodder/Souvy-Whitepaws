@@ -1,0 +1,6 @@
+{
+  "StockpileSpec": {
+    "MaxCapacity": 8,
+    "WhitelistedGoodType": "Scroll"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "RecipeSpec": {
+    "Id": "BetterCogs",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Gear.PluralDisplayName",
+    "CycleDurationInHours": 1.0,
+    "Ingredients": [
+      {
+        "Id": "Log",
+        "Amount": 10
+      },
+      {
+        "Id": "Plank",
+        "Amount": 10
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Gear",
+        "Amount": 5
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "HoomanRelic",
+    "CyclesFuelLasts": 5,
+    "FuelCapacity": 10,
+    "CyclesCapacity": 40,
+    "Icon": "Sprites/Goods/GearIcon"
+  }
+}

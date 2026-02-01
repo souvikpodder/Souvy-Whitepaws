@@ -1,0 +1,52 @@
+{
+	"BuildingPrefabMaterialPatchSpec": {
+		"FactionID": "Whitepaws",
+		"PrefabName": "PipeU15X.Folktails",
+		"MaterialEntries": [
+			{
+				"MaterialName": "WindowsAtlas.Folktails",
+				"NewMaterialName": "CustomWindow3.Whitepaws"
+			},
+			{
+				"MaterialName": "Paper.Folktails",
+				"NewMaterialName": "Paper_white.Whitepaws"
+			},
+			{
+				"MaterialName": "PaintedMetal.Folktails",
+				"NewMaterialName": "PaintedMetal.Whitepaws"
+			},
+			{
+				"MaterialName": "Details.Folktails",
+				"NewMaterialName": "Details.Whitepaws"
+			},
+			{
+				"MaterialName": "BaseWood_White.Folktails",
+				"NewMaterialName": "BaseWood_White.Folktails"
+			},
+			{
+				"MaterialName": "BaseWood_Brown.Folktails",
+				"NewMaterialName": "Pink_wood.Whitepaws"
+			},
+			{
+				"MaterialName": "IrregularPlanks_Brown.Folktails",
+				"NewMaterialName": "Pink_wood.Whitepaws"
+			},
+			{
+				"MaterialName": "ThatchedRoof.Folktails",
+				"NewMaterialName": "GrassRoof.Whitepaws"
+			},
+			{
+				"MaterialName": "BaseMetal.Folktails",
+				"NewMaterialName": "BaseMetal_Gold.Whitepaws"
+			},
+			{
+				"MaterialName": "BaseWoodCommon",
+				"NewMaterialName": "Pink_wood.Whitepaws"
+			},
+			{
+				"MaterialName": "BaseWoodCommon_Amber",
+				"NewMaterialName": "Pink_wood.Whitepaws"
+			}
+		]
+	}
+}

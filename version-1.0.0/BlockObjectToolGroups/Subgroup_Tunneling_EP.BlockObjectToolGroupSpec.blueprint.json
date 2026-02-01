@@ -1,0 +1,17 @@
+{
+    "BlockObjectToolGroupSpec": {
+        "Id": "Subgroup_Tunneling_EP",
+        "Order": 5,
+        "NameLocKey": "Souvy.Subgroup_Tunneling_EP.DisplayName",
+        "Icon": "Buildings/Landscaping/Tunnel/TunnelIcon",
+        "FallbackGroup": false
+    },
+    "ToolGroupChildrenSpec": {
+        "ChildrenToolsTemplateNames": [
+            "Tunnel.Whitepaws",
+            "LadderTunnel.Whitepaws",
+            "UPath.Whitepaws"
+        ],
+        "DoNotIncludePlaceableToolGroup": true
+    }
+}

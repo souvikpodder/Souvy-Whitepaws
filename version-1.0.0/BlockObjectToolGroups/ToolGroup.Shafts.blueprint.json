@@ -1,0 +1,10 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames#append": [
+      "PowerLevee.Folktails",
+      "UPowerLevee.Folktails",
+      "UPowerLeveeTunnel.Whitepaws"
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  }
+}

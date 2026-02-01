@@ -1,0 +1,6 @@
+{
+  "StockpileSpec": {
+    "MaxCapacity": 700,
+    "WhitelistedGoodType": "Warm"
+  }
+}

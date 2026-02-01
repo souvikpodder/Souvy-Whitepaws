@@ -1,0 +1,8 @@
+{
+  "FactionSpec": {
+    "Id": "Whitepaws",
+    "TemplateCollectionIds#append": [
+      "CustomBuildings.Whitepaws"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "BuildingSpec": {
+    "SelectionSoundName": "WaterWheel",
+    "LoopingSoundName": "WaterWheel",
+    "BuildingCost": [
+      {
+        "Id": "Log",
+        "Amount": 1
+      },
+      {
+        "Id": "Plank",
+        "Amount": 5
+      },
+      {
+        "Id": "PineResin",
+        "Amount": 3
+      }
+    ],
+    "ScienceCost": 600,
+    "PlaceFinished": false,
+    "FinishableWithBeaversOnSite": false,
+    "DrawRangeBoundsOnIt": false
+  },
+  "MechanicalNodeSpec": {
+    "PowerOutput": 150,
+    "PowerInput": 0,
+    "IsShaft": false
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames#append": [
+      "Dam.Folktails",
+      "Levee.Folktails",
+      "Sluice.Folktails",
+      "ImpermeableFloor.Folktails"
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  }
+}

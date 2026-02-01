@@ -1,0 +1,8 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames#append": [
+      "Pillar.Folktails"
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  }
+}

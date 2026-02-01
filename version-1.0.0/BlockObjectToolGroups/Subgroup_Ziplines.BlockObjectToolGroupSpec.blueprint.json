@@ -1,0 +1,19 @@
+{
+    "BlockObjectToolGroupSpec": {
+        "Id": "Subgroup_Ziplines_EP",
+        "Order": 4,
+        "NameLocKey": "Souvy.Ziplines_Subgroup_EP.DisplayName",
+        "Icon": "Buildings/Paths/ZiplineStation/ZiplineStationIcon",
+        "FallbackGroup": false
+    },
+    "ToolGroupChildrenSpec": {
+        "ChildrenToolsTemplateNames": [
+            "Zipline_Woodupgrade.Whitepaws",
+            "Zipline_SmallTower.Whitepaws",
+            "ZiplinePylon.Whitepaws",
+            "Zipline_Balloon_Relay.Whitepaws",
+            "Addon_LargeFarmhouse.Whitepaws"
+        ],
+        "DoNotIncludePlaceableToolGroup": false
+    }
+}

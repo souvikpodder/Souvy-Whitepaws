@@ -1,0 +1,6 @@
+{
+    "DynamiteSpec": {
+        "Depth": 30,
+        "ExplosionPrefabPath": "Buildings/Landscaping/Dynamite/DynamiteExplosion"
+    }
+}

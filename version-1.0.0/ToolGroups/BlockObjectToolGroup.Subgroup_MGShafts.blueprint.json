@@ -1,0 +1,9 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames#remove": [
+      "PowerLevee.Folktails",
+      "UPowerLevee.Folktails",
+      "UPowerLeveeTunnel.Whitepaws"
+    ]
+  }
+}

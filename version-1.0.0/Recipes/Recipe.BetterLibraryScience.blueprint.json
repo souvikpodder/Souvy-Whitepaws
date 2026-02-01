@@ -1,0 +1,37 @@
+{
+  "RecipeSpec": {
+    "Id": "BetterLibraryScience",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Lapantouflemagic.SciencePoints.Good",
+    "CycleDurationInHours": 10.0,
+    "Ingredients": [
+      {
+        "Id": "BrainSalts",
+        "Amount": 1
+      },
+      {
+        "Id": "Kimchi",
+        "Amount": 1
+      },
+      {
+        "Id": "Berries",
+        "Amount": 1
+      },
+      {
+        "Id": "Greenpeas",
+        "Amount": 1
+      },
+      {
+        "Id": "Water",
+        "Amount": 0.5
+      }
+    ],
+    "Products": [],
+    "ProducedSciencePoints": 25,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 50,
+    "Icon": "sprites/bottombar/buildinggroups/Science"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "RecipeSpec": {
+    "Id": "BetterScaffolding",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Scaffolding.PluralDisplayName",
+    "CycleDurationInHours": 1.0,
+    "Ingredients": [
+      {
+        "Id": "Log",
+        "Amount": 10
+      },
+      {
+        "Id": "Plank",
+        "Amount": 20
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Scaffolding",
+        "Amount": 5
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "HoomanRelic",
+    "CyclesFuelLasts": 5,
+    "FuelCapacity": 10,
+    "CyclesCapacity": 40,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Scaffolding"
+  }
+}

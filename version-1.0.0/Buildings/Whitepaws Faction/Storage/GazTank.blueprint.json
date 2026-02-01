@@ -1,0 +1,6 @@
+{
+  "StockpileSpec": {
+    "MaxCapacity": 1500,
+    "WhitelistedGoodType": "gaz"
+  }
+}

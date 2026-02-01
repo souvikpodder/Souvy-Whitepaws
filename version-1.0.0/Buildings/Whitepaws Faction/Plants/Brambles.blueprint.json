@@ -1,0 +1,29 @@
+{
+  "GrowableSpec": {
+    "GrowthTimeInDays": 0.5
+  },
+  "PlantableSpec": {
+    "ResourceGroup": "TreeNursery",
+    "PlantTimeInHours": 0.1
+  },
+  "DemolishableSpec": {
+    "DemolishTimeInHours": 1.0,
+    "ShowDemolishButtonInEntityPanel": false
+  },
+  "CuttableSpec": {
+    "RemoveOnCut": true,
+    "LeftoverModelName": "#Leftover",
+    "Yielder": {
+      "YielderComponentName": "Cuttable",
+      "Yield": {
+        "Id": "MeanFlower",
+        "Amount": 2
+      },
+      "RemovalTimeInHours": 1.0,
+      "ResourceGroup": "Cuttable"
+    }
+  },
+  "ReproducibleSpec": {
+    "ReproductionChance": 50.0
+  }
+}
