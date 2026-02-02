@@ -1,0 +1,30 @@
+{
+    "RecipeSpec": {
+        "Id": "Glowfluid",
+        "DisplayLocKey": "Lapantouflemagic.Glowfluid.DisplayName",
+        "CycleDurationInHours": 3,
+        "CyclesCapacity": 150,
+        "Ingredients": [
+            {
+                "Id": "FrozenHumanMeat",
+                "Amount": 1
+            },
+            {
+                "Id": "Badwater",
+                "Amount": 1
+            }
+        ],
+        "Products": [
+            {
+                "Id": "Glowfluid",
+                "Amount": 20
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "InsectLarva",
+        "CyclesFuelLasts": 50,
+        "FuelCapacity": 5,
+        "Icon": "sprites/Whitepaws Sprites/Goods/Glowfluid",
+        "BackwardCompatibleIds": []
+    }
+}

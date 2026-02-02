@@ -1,0 +1,29 @@
+{
+  "RecipeSpec": {
+    "Id": "CoalDrilling",
+    "DisplayLocKey": "Good.coal.PluralDisplayName",
+    "CycleDurationInHours": 2,
+    "CyclesCapacity": 5,
+    "Ingredients": [],
+    "Products": [
+      {
+        "Id": "Coal",
+        "Amount": 300
+      },
+      {
+        "Id": "Dirt",
+        "Amount": 40
+      },
+      {
+        "Id": "Rock",
+        "Amount": 20
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "Drillbits",
+    "CyclesFuelLasts": 7,
+    "FuelCapacity": 10,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Coal",
+    "BackwardCompatibleIds": []
+  }
+}

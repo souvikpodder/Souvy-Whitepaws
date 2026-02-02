@@ -1,0 +1,46 @@
+{
+    "RecipeSpec": {
+        "Id": "PhDInRobotics",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Lapantouflemagic.PhDInRobotics.DisplayName",
+        "CycleDurationInHours": 24.0,
+        "Ingredients": [
+            {
+                "Id": "Pencils",
+                "Amount": 50
+            },
+            {
+                "Id": "Paper",
+                "Amount": 100
+            },
+            {
+                "Id": "HoomanRelic",
+                "Amount": 20
+            },
+            {
+                "Id": "RobotParts",
+                "Amount": 10
+            },
+            {
+                "Id": "RuinExploration",
+                "Amount": 20
+            },
+            {
+                "Id": "BrainSalts",
+                "Amount": 20
+            }
+        ],
+        "Products": [
+            {
+                "Id": "PhDInRobotics",
+                "Amount": 1
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 1,
+        "Icon": "sprites/Whitepaws Sprites/Goods/AdvancedPlan3"
+    }
+}

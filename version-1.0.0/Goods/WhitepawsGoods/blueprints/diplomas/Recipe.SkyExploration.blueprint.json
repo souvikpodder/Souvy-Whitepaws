@@ -1,0 +1,26 @@
+{
+    "RecipeSpec": {
+        "Id": "SkyExploration",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Lapantouflemagic.SkyExploration.DisplayName",
+        "CycleDurationInHours": 10.0,
+        "Ingredients": [
+            {
+                "Id": "Paper",
+                "Amount": 4
+            }
+        ],
+        "Products": [
+            {
+                "Id": "SkyExploration",
+                "Amount": 1
+            }
+        ],
+        "ProducedSciencePoints": 1,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 20,
+        "Icon": "sprites/Whitepaws Sprites/Goods/SkyExploration"
+    }
+}

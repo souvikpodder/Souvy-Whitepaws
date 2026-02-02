@@ -1,0 +1,42 @@
+{
+    "RecipeSpec": {
+        "Id": "AirshipGrandAdventure",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Recipe.AirshipGrandAdventure.DisplayName",
+        "CycleDurationInHours": 5.0,
+        "Ingredients": [
+            {
+                "Id": "Hydrogen",
+                "Amount": 50
+            }
+        ],
+        "Products": [
+            {
+                "Id": "Apple_WP",
+                "Amount": 35
+            },
+            {
+                "Id": "Coconut",
+                "Amount": 35
+            },
+            {
+                "Id": "FrozenHumanMeat",
+                "Amount": 50
+            },
+            {
+                "Id": "InsectLarva",
+                "Amount": 3
+            },
+            {
+                "Id": "Seashells",
+                "Amount": 50
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 10,
+        "Icon": "sprites/Whitepaws Sprites/Buildings/AdvancedAirship"
+    }
+}

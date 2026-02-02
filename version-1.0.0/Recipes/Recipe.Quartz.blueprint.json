@@ -1,0 +1,21 @@
+{
+    "RecipeSpec": {
+        "Id": "Quartz",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Good.Quartz.PluralDisplayName",
+        "CycleDurationInHours": 15.0,
+        "Ingredients": [],
+        "Products": [
+            {
+                "Id": "Quartz",
+                "Amount": 50
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "Tools",
+        "CyclesFuelLasts": 50,
+        "FuelCapacity": 10,
+        "CyclesCapacity": 10,
+        "Icon": "sprites/Whitepaws Sprites/Goods/Quartz"
+    }
+}

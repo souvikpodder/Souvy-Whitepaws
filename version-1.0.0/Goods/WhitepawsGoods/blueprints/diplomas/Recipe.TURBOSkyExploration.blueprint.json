@@ -1,0 +1,30 @@
+{
+    "RecipeSpec": {
+        "Id": "TURBOSkyExploration",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Lapantouflemagic.SkyExploration.DisplayName",
+        "CycleDurationInHours": 2.0,
+        "Ingredients": [
+            {
+                "Id": "Paper",
+                "Amount": 10
+            },
+            {
+                "Id": "Hydrogen",
+                "Amount": 10
+            }
+        ],
+        "Products": [
+            {
+                "Id": "SkyExploration",
+                "Amount": 10
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 10,
+        "Icon": "sprites/Whitepaws Sprites/Goods/SkyExploration"
+    }
+}

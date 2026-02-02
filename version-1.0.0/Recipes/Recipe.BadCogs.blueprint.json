@@ -17,7 +17,7 @@
     "Products": [
       {
         "Id": "Gear",
-        "Amount": 1
+        "Amount": 4
       }
     ],
     "ProducedSciencePoints": 0,

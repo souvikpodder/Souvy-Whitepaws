@@ -1,0 +1,46 @@
+{
+    "RecipeSpec": {
+        "Id": "RuinExploration",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Lapantouflemagic.RuinExploration.DisplayName",
+        "CycleDurationInHours": 10.0,
+        "Ingredients": [
+            {
+                "Id": "Glowfluid",
+                "Amount": 5
+            },
+            {
+                "Id": "Paper",
+                "Amount": 5
+            },
+            {
+                "Id": "Pencils",
+                "Amount": 2
+            },
+            {
+                "Id": "CerealBar",
+                "Amount": 2
+            },
+            {
+                "Id": "Water",
+                "Amount": 3
+            },
+            {
+                "Id": "Rope",
+                "Amount": 1
+            }
+        ],
+        "Products": [
+            {
+                "Id": "RuinExploration",
+                "Amount": 20
+            }
+        ],
+        "ProducedSciencePoints": 1,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 5,
+        "Icon": "sprites/Whitepaws Sprites/Goods/RuinExploration"
+    }
+}

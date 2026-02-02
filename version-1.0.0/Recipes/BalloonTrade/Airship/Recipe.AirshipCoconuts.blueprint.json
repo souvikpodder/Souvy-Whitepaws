@@ -1,0 +1,26 @@
+{
+    "RecipeSpec": {
+        "Id": "AirshipCoconuts",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Good.Coconut.PluralDisplayName",
+        "CycleDurationInHours": 5.0,
+        "Ingredients": [
+            {
+                "Id": "Hydrogen",
+                "Amount": 50
+            }
+        ],
+        "Products": [
+            {
+                "Id": "Coconut",
+                "Amount": 100
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 5,
+        "Icon": "sprites/Whitepaws Sprites/Goods/CoconutIcon"
+    }
+}

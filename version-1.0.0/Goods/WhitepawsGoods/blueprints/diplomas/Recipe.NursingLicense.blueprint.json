@@ -1,0 +1,50 @@
+{
+    "RecipeSpec": {
+        "Id": "NursingLicense",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Lapantouflemagic.NursingLicense.DisplayName",
+        "CycleDurationInHours": 24.0,
+        "Ingredients": [
+            {
+                "Id": "Pencils",
+                "Amount": 25
+            },
+            {
+                "Id": "Paper",
+                "Amount": 50
+            },
+            {
+                "Id": "BetterMedicine",
+                "Amount": 25
+            },
+            {
+                "Id": "Alcohol",
+                "Amount": 20
+            },
+            {
+                "Id": "Berries",
+                "Amount": 50
+            },
+            {
+                "Id": "Cure",
+                "Amount": 30
+            },
+            {
+                "Id": "BrainSalts",
+                "Amount": 30
+            }
+        ],
+        "Products": [
+            {
+                "Id": "NursingLicense",
+                "Amount": 1
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 1,
+        "Icon": "sprites/Whitepaws Sprites/Buildings/Clinic"
+    }
+}

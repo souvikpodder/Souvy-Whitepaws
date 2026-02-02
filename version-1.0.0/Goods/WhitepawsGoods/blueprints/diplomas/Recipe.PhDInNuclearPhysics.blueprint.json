@@ -1,0 +1,46 @@
+{
+    "RecipeSpec": {
+        "Id": "PhDInNuclearPhysics",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Lapantouflemagic.PhDInNuclearPhysics.DisplayName",
+        "CycleDurationInHours": 24.0,
+        "Ingredients": [
+            {
+                "Id": "Pencils",
+                "Amount": 20
+            },
+            {
+                "Id": "Paper",
+                "Amount": 50
+            },
+            {
+                "Id": "Badwater",
+                "Amount": 100
+            },
+            {
+                "Id": "NuclearWaste",
+                "Amount": 10
+            },
+            {
+                "Id": "Cure",
+                "Amount": 10
+            },
+            {
+                "Id": "BrainSalts",
+                "Amount": 20
+            }
+        ],
+        "Products": [
+            {
+                "Id": "PhDInNuclearPhysics",
+                "Amount": 1
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 1,
+        "Icon": "sprites/Whitepaws Sprites/Goods/AdvancedPlan3"
+    }
+}

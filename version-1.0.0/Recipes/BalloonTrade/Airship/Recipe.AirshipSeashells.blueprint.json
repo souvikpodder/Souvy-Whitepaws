@@ -1,0 +1,26 @@
+{
+    "RecipeSpec": {
+        "Id": "AirshipSeashells",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Good.Seashells.PluralDisplayName",
+        "CycleDurationInHours": 5.0,
+        "Ingredients": [
+            {
+                "Id": "Hydrogen",
+                "Amount": 50
+            }
+        ],
+        "Products": [
+            {
+                "Id": "Seashells",
+                "Amount": 150
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 5,
+        "Icon": "sprites/Whitepaws Sprites/Goods/Seashell"
+    }
+}

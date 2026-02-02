@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "NuclearFuelSlow",
+    "DisplayLocKey": "Lapantouflemagic.NuclearFuelSlow.DisplayName",
+    "CycleDurationInHours": 12,
+    "CyclesCapacity": 50,
+    "Ingredients": [
+      {
+        "Id": "NuclearWaste",
+        "Amount": 6
+      }
+    ],
+    "Products": [
+      {
+        "Id": "NuclearFuel",
+        "Amount": 2
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "Gear",
+    "CyclesFuelLasts": 30,
+    "FuelCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Other/SlowShrooms",
+    "BackwardCompatibleIds": []
+  }
+}
