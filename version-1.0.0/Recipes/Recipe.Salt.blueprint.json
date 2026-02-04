@@ -1,0 +1,21 @@
+{
+    "RecipeSpec": {
+        "Id": "Salt",
+        "DisplayLocKey": "Good.Salt.PluralDisplayName",
+        "CycleDurationInHours": 2,
+        "CyclesCapacity": 50,
+        "Ingredients": [],
+        "Products": [
+            {
+                "Id": "Salt",
+                "Amount": 1
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "Icon": "sprites/Whitepaws Sprites/Goods/Salt",
+        "BackwardCompatibleIds": []
+    }
+}

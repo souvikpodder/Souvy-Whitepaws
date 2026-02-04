@@ -3,7 +3,7 @@
         "Id": "AirshipFrozenHumanMeat",
         "BackwardCompatibleIds": [],
         "DisplayLocKey": "Good.FrozenHumanMeat.PluralDisplayName",
-        "CycleDurationInHours": 5.0,
+        "CycleDurationInHours": 5,
         "Ingredients": [
             {
                 "Id": "Hydrogen",

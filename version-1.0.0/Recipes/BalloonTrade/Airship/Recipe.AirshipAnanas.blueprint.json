@@ -3,7 +3,7 @@
         "Id": "AirshipAnanas",
         "BackwardCompatibleIds": [],
         "DisplayLocKey": "Good.Apple.PluralDisplayName",
-        "CycleDurationInHours": 5.0,
+        "CycleDurationInHours": 5,
         "Ingredients": [
             {
                 "Id": "Hydrogen",

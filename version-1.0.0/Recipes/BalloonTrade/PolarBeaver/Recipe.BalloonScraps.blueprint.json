@@ -1,26 +1,26 @@
 {
     "RecipeSpec": {
-        "Id": "AirshipCoconuts",
+        "Id": "BalloonScrapMetal",
         "BackwardCompatibleIds": [],
-        "DisplayLocKey": "Good.Coconut.PluralDisplayName",
+        "DisplayLocKey": "Good.ScrapMetal.PluralDisplayName",
         "CycleDurationInHours": 5,
+        "CyclesCapacity": 5,
         "Ingredients": [
             {
-                "Id": "Hydrogen",
+                "Id": "Coal",
                 "Amount": 50
             }
         ],
         "Products": [
             {
-                "Id": "Coconut",
-                "Amount": 100
+                "Id": "ScrapMetal",
+                "Amount": 20
             }
         ],
         "ProducedSciencePoints": 0,
         "Fuel": "",
         "CyclesFuelLasts": 0,
         "FuelCapacity": 0,
-        "CyclesCapacity": 5,
-        "Icon": "sprites/Whitepaws Sprites/Goods/CoconutIcon"
+        "Icon": "Sprites/Goods/ScrapMetalIcon"
     }
 }

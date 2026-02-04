@@ -1,19 +1,19 @@
 {
     "RecipeSpec": {
-        "Id": "AirshipCoconuts",
+        "Id": "BalloonRDynamite",
         "BackwardCompatibleIds": [],
-        "DisplayLocKey": "Good.Coconut.PluralDisplayName",
+        "DisplayLocKey": "Good.Explosives.PluralDisplayName",
         "CycleDurationInHours": 5,
         "Ingredients": [
             {
-                "Id": "Hydrogen",
+                "Id": "Rope",
                 "Amount": 50
             }
         ],
         "Products": [
             {
-                "Id": "Coconut",
-                "Amount": 100
+                "Id": "Explosives",
+                "Amount": 50
             }
         ],
         "ProducedSciencePoints": 0,
@@ -21,6 +21,6 @@
         "CyclesFuelLasts": 0,
         "FuelCapacity": 0,
         "CyclesCapacity": 5,
-        "Icon": "sprites/Whitepaws Sprites/Goods/CoconutIcon"
+        "Icon": "Sprites/Goods/ExplosivesIcon"
     }
 }

@@ -1,0 +1,26 @@
+{
+    "RecipeSpec": {
+        "Id": "SaltAbyss",
+        "DisplayLocKey": "Good.Salt.PluralDisplayName",
+        "CycleDurationInHours": 2,
+        "CyclesCapacity": 20,
+        "Ingredients": [
+            {
+                "Id": "RuinExploration",
+                "Amount": 1
+            }
+        ],
+        "Products": [
+            {
+                "Id": "Salt",
+                "Amount": 20
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "Drillbits",
+        "CyclesFuelLasts": 10,
+        "FuelCapacity": 10,
+        "Icon": "sprites/Whitepaws Sprites/Goods/Salt",
+        "BackwardCompatibleIds": []
+    }
+}

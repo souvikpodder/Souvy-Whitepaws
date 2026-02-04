@@ -1,19 +1,19 @@
 {
     "RecipeSpec": {
-        "Id": "AirshipCoconuts",
+        "Id": "BalloonApple",
         "BackwardCompatibleIds": [],
-        "DisplayLocKey": "Good.Coconut.PluralDisplayName",
+        "DisplayLocKey": "Good.Apple.PluralDisplayName",
         "CycleDurationInHours": 5,
         "Ingredients": [
             {
-                "Id": "Hydrogen",
-                "Amount": 50
+                "Id": "BrainSalts",
+                "Amount": 5
             }
         ],
         "Products": [
             {
-                "Id": "Coconut",
-                "Amount": 100
+                "Id": "Apple_WP",
+                "Amount": 50
             }
         ],
         "ProducedSciencePoints": 0,
@@ -21,6 +21,6 @@
         "CyclesFuelLasts": 0,
         "FuelCapacity": 0,
         "CyclesCapacity": 5,
-        "Icon": "sprites/Whitepaws Sprites/Goods/CoconutIcon"
+        "Icon": "sprites/Whitepaws Sprites/Goods/Apple"
     }
 }

@@ -1,0 +1,29 @@
+{
+    "RecipeSpec": {
+        "Id": "IronDrilling",
+        "DisplayLocKey": "Good.Ironore.PluralDisplayName",
+        "CycleDurationInHours": 1,
+        "CyclesCapacity": 5,
+        "Ingredients": [],
+        "Products": [
+            {
+                "Id": "Ironore",
+                "Amount": 60
+            },
+            {
+                "Id": "Dirt",
+                "Amount": 40
+            },
+            {
+                "Id": "Rock",
+                "Amount": 20
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "Drillbits",
+        "CyclesFuelLasts": 6,
+        "FuelCapacity": 10,
+        "Icon": "sprites/Whitepaws Sprites/Goods/Ironore",
+        "BackwardCompatibleIds": []
+    }
+}

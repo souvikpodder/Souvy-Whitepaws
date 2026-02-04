@@ -1,19 +1,19 @@
 {
     "RecipeSpec": {
-        "Id": "AirshipCoconuts",
+        "Id": "BalloonCoconuts",
         "BackwardCompatibleIds": [],
         "DisplayLocKey": "Good.Coconut.PluralDisplayName",
         "CycleDurationInHours": 5,
         "Ingredients": [
             {
-                "Id": "Hydrogen",
-                "Amount": 50
+                "Id": "Tools",
+                "Amount": 30
             }
         ],
         "Products": [
             {
                 "Id": "Coconut",
-                "Amount": 100
+                "Amount": 50
             }
         ],
         "ProducedSciencePoints": 0,

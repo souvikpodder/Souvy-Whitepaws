@@ -1,0 +1,26 @@
+{
+    "RecipeSpec": {
+        "Id": "Gold",
+        "DisplayLocKey": "Good.GoldDust.PluralDisplayName",
+        "CycleDurationInHours": 5,
+        "CyclesCapacity": 30,
+        "Ingredients": [
+            {
+                "Id": "RuinExploration",
+                "Amount": 1
+            }
+        ],
+        "Products": [
+            {
+                "Id": "GoldDust",
+                "Amount": 15
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "Drillbits",
+        "CyclesFuelLasts": 10,
+        "FuelCapacity": 10,
+        "Icon": "sprites/Whitepaws Sprites/Goods/GoldDust",
+        "BackwardCompatibleIds": []
+    }
+}

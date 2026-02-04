@@ -1,26 +1,26 @@
 {
     "RecipeSpec": {
-        "Id": "AirshipCoconuts",
+        "Id": "BalloonCrudesawblade",
         "BackwardCompatibleIds": [],
-        "DisplayLocKey": "Good.Coconut.PluralDisplayName",
+        "DisplayLocKey": "Good.Crudesawblade.PluralDisplayName",
         "CycleDurationInHours": 5,
+        "CyclesCapacity": 5,
         "Ingredients": [
             {
-                "Id": "Hydrogen",
+                "Id": "ForeignFood",
                 "Amount": 50
             }
         ],
         "Products": [
             {
-                "Id": "Coconut",
-                "Amount": 100
+                "Id": "Crudesawblade",
+                "Amount": 2
             }
         ],
         "ProducedSciencePoints": 0,
         "Fuel": "",
         "CyclesFuelLasts": 0,
         "FuelCapacity": 0,
-        "CyclesCapacity": 5,
-        "Icon": "sprites/Whitepaws Sprites/Goods/CoconutIcon"
+        "Icon": "sprites/Whitepaws Sprites/Goods/Crudesawblade"
     }
 }

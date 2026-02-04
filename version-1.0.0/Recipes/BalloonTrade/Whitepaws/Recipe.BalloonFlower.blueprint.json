@@ -1,26 +1,26 @@
 {
     "RecipeSpec": {
-        "Id": "AirshipCoconuts",
+        "Id": "BalloonFlower",
         "BackwardCompatibleIds": [],
-        "DisplayLocKey": "Good.Coconut.PluralDisplayName",
+        "DisplayLocKey": "Good.MeanFlower.PluralDisplayName",
         "CycleDurationInHours": 5,
+        "CyclesCapacity": 5,
         "Ingredients": [
             {
-                "Id": "Hydrogen",
-                "Amount": 50
+                "Id": "HoomanRelic",
+                "Amount": 2
             }
         ],
         "Products": [
             {
-                "Id": "Coconut",
-                "Amount": 100
+                "Id": "MeanFlower",
+                "Amount": 30
             }
         ],
         "ProducedSciencePoints": 0,
         "Fuel": "",
         "CyclesFuelLasts": 0,
         "FuelCapacity": 0,
-        "CyclesCapacity": 5,
-        "Icon": "sprites/Whitepaws Sprites/Goods/CoconutIcon"
+        "Icon": "sprites/Whitepaws Sprites/Goods/MeanFlower"
     }
 }

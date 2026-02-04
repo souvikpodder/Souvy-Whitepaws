@@ -1,0 +1,21 @@
+{
+    "RecipeSpec": {
+        "Id": "Coal",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Good.coal.PluralDisplayName",
+        "CycleDurationInHours": 5.0,
+        "Ingredients": [],
+        "Products": [
+            {
+                "Id": "Coal",
+                "Amount": 1
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "",
+        "CyclesFuelLasts": 0,
+        "FuelCapacity": 0,
+        "CyclesCapacity": 50,
+        "Icon": "sprites/Whitepaws Sprites/Goods/Coal"
+    }
+}

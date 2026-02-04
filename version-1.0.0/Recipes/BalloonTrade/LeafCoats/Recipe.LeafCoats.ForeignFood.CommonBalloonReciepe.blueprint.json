@@ -1,26 +1,26 @@
 {
     "RecipeSpec": {
-        "Id": "AirshipForeignFood",
+        "Id": "LeafCoats_ForeignFood_CommonBalloonReciepe",
         "BackwardCompatibleIds": [],
         "DisplayLocKey": "Lapantouflemagic.ForeignFood.PluralDisplayName",
         "CycleDurationInHours": 5,
+        "CyclesCapacity": 5,
         "Ingredients": [
             {
-                "Id": "Hydrogen",
-                "Amount": 50
+                "Id": "Satchel",
+                "Amount": 12
             }
         ],
         "Products": [
             {
                 "Id": "ForeignFood",
-                "Amount": 250
+                "Amount": 50
             }
         ],
         "ProducedSciencePoints": 0,
         "Fuel": "",
         "CyclesFuelLasts": 0,
         "FuelCapacity": 0,
-        "CyclesCapacity": 5,
         "Icon": "sprites/Whitepaws Sprites/Goods/ForeignFood"
     }
 }

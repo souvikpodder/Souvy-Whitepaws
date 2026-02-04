@@ -1,26 +1,26 @@
 {
     "RecipeSpec": {
-        "Id": "AirshipCoconuts",
+        "Id": "BalloonBanana",
         "BackwardCompatibleIds": [],
-        "DisplayLocKey": "Good.Coconut.PluralDisplayName",
+        "DisplayLocKey": "Good.GoldDust.PluralDisplayName",
         "CycleDurationInHours": 5,
+        "CyclesCapacity": 5,
         "Ingredients": [
             {
-                "Id": "Hydrogen",
-                "Amount": 50
+                "Id": "Pillow",
+                "Amount": 5
             }
         ],
         "Products": [
             {
-                "Id": "Coconut",
-                "Amount": 100
+                "Id": "GoldDust",
+                "Amount": 5
             }
         ],
         "ProducedSciencePoints": 0,
         "Fuel": "",
         "CyclesFuelLasts": 0,
         "FuelCapacity": 0,
-        "CyclesCapacity": 5,
-        "Icon": "sprites/Whitepaws Sprites/Goods/CoconutIcon"
+        "Icon": "sprites/Whitepaws Sprites/Goods/GoldDust"
     }
 }

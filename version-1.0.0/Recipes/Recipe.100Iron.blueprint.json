@@ -1,0 +1,21 @@
+{
+    "RecipeSpec": {
+        "Id": "Iron10",
+        "BackwardCompatibleIds": [],
+        "DisplayLocKey": "Good.Ironore.PluralDisplayName",
+        "CycleDurationInHours": 2.0,
+        "Ingredients": [],
+        "Products": [
+            {
+                "Id": "Ironore",
+                "Amount": 6
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "Tools",
+        "CyclesFuelLasts": 100,
+        "FuelCapacity": 10,
+        "CyclesCapacity": 30,
+        "Icon": "sprites/Whitepaws Sprites/Goods/Ironore"
+    }
+}

@@ -3,7 +3,7 @@
         "Id": "AirshipSeashells",
         "BackwardCompatibleIds": [],
         "DisplayLocKey": "Good.Seashells.PluralDisplayName",
-        "CycleDurationInHours": 5.0,
+        "CycleDurationInHours": 5,
         "Ingredients": [
             {
                 "Id": "Hydrogen",

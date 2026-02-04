@@ -3,7 +3,7 @@
         "Id": "AirshipGrandAdventure",
         "BackwardCompatibleIds": [],
         "DisplayLocKey": "Recipe.AirshipGrandAdventure.DisplayName",
-        "CycleDurationInHours": 5.0,
+        "CycleDurationInHours": 5,
         "Ingredients": [
             {
                 "Id": "Hydrogen",
