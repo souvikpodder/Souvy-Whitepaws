@@ -1,0 +1,101 @@
+{
+    "RecipeSpec": {
+        "Id": "Bento_WP",
+        "DisplayLocKey": "Good.Bento_WP.PluralDisplayName",
+        "CycleDurationInHours": 1,
+        "CyclesCapacity": 5,
+        "Ingredients": [
+            {
+                "Amount": 5,
+                "Id": "Plank"
+            },
+            {
+                "Amount": 5,
+                "Id": "Berries"
+            },
+            {
+                "Amount": 5,
+                "Id": "SunflowerSeeds"
+            },
+            {
+                "Amount": 5,
+                "Id": "BraisedCabbage"
+            },
+            {
+                "Amount": 5,
+                "Id": "Kimchi"
+            },
+            {
+                "Amount": 5,
+                "Id": "FriedRice"
+            },
+            {
+                "Amount": 1,
+                "Id": "GreenStew"
+            },
+            {
+                "Amount": 1,
+                "Id": "ChestnutStew"
+            },
+            {
+                "Amount": 1,
+                "Id": "Deluxestew"
+            },
+            {
+                "Amount": 5,
+                "Id": "ForeignFood"
+            },
+            {
+                "Amount": 5,
+                "Id": "FriedPumpkinChips"
+            },
+            {
+                "Amount": 5,
+                "Id": "Grapes"
+            },
+            {
+                "Amount": 5,
+                "Id": "Amazake"
+            },
+            {
+                "Amount": 5,
+                "Id": "ChestnutBeer"
+            },
+            {
+                "Amount": 5,
+                "Id": "LotusTea"
+            },
+            {
+                "Amount": 5,
+                "Id": "RedSoda"
+            },
+            {
+                "Amount": 5,
+                "Id": "Wine"
+            },
+            {
+                "Amount": 5,
+                "Id": "Banana"
+            },
+            {
+                "Amount": 5,
+                "Id": "Coconut"
+            },
+            {
+                "Amount": 5,
+                "Id": "Apple_WP"
+            }
+        ],
+        "Products": [
+            {
+                "Amount": 100,
+                "Id": "Bento_WP"
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "Log",
+        "CyclesFuelLasts": 50,
+        "FuelCapacity": 25,
+        "Icon": "Sprites/Goods/BentoIcon_WP"
+    }
+}

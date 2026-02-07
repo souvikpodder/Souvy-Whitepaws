@@ -1,0 +1,109 @@
+{
+    "GoodSpec": {
+        "Id": "Bento_WP",
+        "DisplayNameLocKey": "Good.Bento_WP.DisplayName",
+        "PluralDisplayNameLocKey": "Good.Bento_WP.PluralDisplayName",
+        "ConsumptionEffects": [
+            {
+                "Points": 0.5,
+                "NeedId": "Bento_WP"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Hunger"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Berries"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "SunflowerSeeds"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "BraisedCabbage"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Kimchi"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "FriedRice"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Stew_Vegetable"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Stew_Chestnut"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Stew_Deluxe"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "ForeignFood"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "FriedPumpkinChips"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Grapes"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Amazake"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "ChestnutBeer"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "LotusTea"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "RedSoda"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Wine"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Banana"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Coconut"
+            },
+            {
+                "Points": 0.1,
+                "NeedId": "Apple_WP"
+            }
+        ],
+        "GoodType": "Box",
+        "StockpileVisualization": "Box",
+        "VisibleContainer": "Box",
+        "ContainerColor": {
+            "r": 0.6,
+            "g": 1.0,
+            "b": 0.8,
+            "a": 1.0
+        },
+        "ContainerMaterial": "",
+        "CarryingAnimation": "CarryInHands",
+        "Weight": 1,
+        "GoodGroupId": "Food",
+        "GoodOrder": 900070,
+        "ForceImport": true,
+        "Icon": "Sprites/Goods/BentoIcon_WP"
+    }
+}

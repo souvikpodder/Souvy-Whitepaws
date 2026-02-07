@@ -1,0 +1,38 @@
+{
+    "RecipeSpec": {
+        "Id": "GreenStew",
+        "DisplayLocKey": "Good.GreenStew.PluralDisplayName",
+        "CycleDurationInHours": 1,
+        "CyclesCapacity": 50,
+        "Ingredients": [
+            {
+                "Id": "Nenuphar",
+                "Amount": 3
+            },
+            {
+                "Id": "Greenpeas",
+                "Amount": 3
+            },
+            {
+                "Id": "MeanFlower",
+                "Amount": 2
+            },
+            {
+                "Id": "Water",
+                "Amount": 7
+            }
+        ],
+        "Products": [
+            {
+                "Id": "GreenStew",
+                "Amount": 50
+            }
+        ],
+        "ProducedSciencePoints": 0,
+        "Fuel": "Log",
+        "CyclesFuelLasts": 10,
+        "FuelCapacity": 10,
+        "Icon": "sprites/Whitepaws Sprites/Goods/GreenStew",
+        "BackwardCompatibleIds": []
+    }
+}

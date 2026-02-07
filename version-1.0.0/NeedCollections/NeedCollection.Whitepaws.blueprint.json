@@ -1,0 +1,8 @@
+{
+    "NeedCollectionSpec": {
+        "CollectionId": "Whitepaws",
+        "Needs#append": [
+            "Bento_WP"
+        ]
+    }
+}

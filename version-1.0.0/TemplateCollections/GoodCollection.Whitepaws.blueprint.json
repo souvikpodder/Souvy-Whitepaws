@@ -1,8 +1,0 @@
-{
-  "GoodCollectionSpec": {
-    "CollectionId": "Whitepaws",
-    "Goods#append": [
-      "TreatedPlank"
-    ]
-  }
-}

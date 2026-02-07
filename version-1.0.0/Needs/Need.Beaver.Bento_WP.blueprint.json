@@ -1,0 +1,19 @@
+{
+    "NeedSpec": {
+        "Id": "Bento_WP",
+        "Order": 1,
+        "NeedGroupId": "Nutrition",
+        "CharacterType": "Beaver",
+        "DisplayNameLocKey": "Good.Bento_WP.PluralDisplayName",
+        "StartingValue": 0.0,
+        "MinimumValue": 0.0,
+        "MaximumValue": 1.0,
+        "DailyDelta": -0.2,
+        "ImportanceMultiplier": 2.0,
+        "Effectiveness": 2.0,
+        "Wastable": true,
+        "HoursWarningThreshold": 0.0,
+        "FavorableWellbeing": 10,
+        "UnfavorableWellbeing": 0
+    }
+}
