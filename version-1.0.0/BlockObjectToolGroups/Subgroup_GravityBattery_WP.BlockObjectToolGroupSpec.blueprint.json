@@ -1,7 +1,7 @@
 {
     "BlockObjectToolGroupSpec": {
         "Id": "Subgroup_GravityBattery_WP",
-        "Order": 4,
+        "Order": 50,
         "NameLocKey": "Souvy.Subgroup_GravityBattery_WP.DisplayName",
         "Icon": "Buildings/Power/GravityBattery/GravityBatteryIcon",
         "FallbackGroup": false
@@ -13,5 +13,10 @@
             "LightGravityBattery.Whitepaws"
         ],
         "DoNotIncludePlaceableToolGroup": true
+    },
+    "ParentToolGroupSpec": {
+        "ParentIds": [
+            "Power"
+        ]
     }
 }

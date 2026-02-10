@@ -1,0 +1,30 @@
+{
+  "RecipeSpec": {
+    "Id": "Kimchi",
+    "DisplayLocKey": "Good.Kimchi.DisplayName",
+    "CycleDurationInHours": 10,
+    "CyclesCapacity": 2,
+    "Ingredients": [
+      {
+        "Id": "MeanFlower",
+        "Amount": 3
+      },
+      {
+        "Id": "Cabbage",
+        "Amount": 10
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Kimchi",
+        "Amount": 30
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Kimchi",
+    "BackwardCompatibleIds": []
+  }
+}
