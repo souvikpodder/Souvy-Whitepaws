@@ -1,8 +1,8 @@
 {
     "BlockObjectToolGroupSpec": {
-        "Id": "Subgroup_Ziplines_EP",
+        "Id": "Subgroup_Ziplines_WP",
         "Order": 4,
-        "NameLocKey": "Souvy.Ziplines_Subgroup_EP.DisplayName",
+        "NameLocKey": "Souvy.Ziplines_Subgroup_WP.DisplayName",
         "Icon": "Buildings/Paths/ZiplineStation/ZiplineStationIcon",
         "FallbackGroup": false
     },

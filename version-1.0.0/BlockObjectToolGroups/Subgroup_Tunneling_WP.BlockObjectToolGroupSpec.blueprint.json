@@ -1,8 +1,8 @@
 {
     "BlockObjectToolGroupSpec": {
-        "Id": "Subgroup_Tunneling_EP",
+        "Id": "Subgroup_Tunneling_WP",
         "Order": 5,
-        "NameLocKey": "Souvy.Subgroup_Tunneling_EP.DisplayName",
+        "NameLocKey": "Souvy.Subgroup_Tunneling_WP.DisplayName",
         "Icon": "Buildings/Landscaping/Tunnel/TunnelIcon",
         "FallbackGroup": false
     },

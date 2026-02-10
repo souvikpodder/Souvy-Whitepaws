@@ -4,14 +4,14 @@
       "CrappyGeothermalEngine.Whitepaws",
       "CrappyWaterWheel.Whitepaws",
       "Engine.WhitePaws",
-      "HeavyGravityBattery.Whitepaws",
       "LargeWaterWheel.Whitepaws",
       "NuclearPowerPlant_Basic.Whitepaws",
       "NuclearPowerPlant_Overdrive.Whitepaws",
       "NuclearWaterCollector",
       "NuclearWaterCollector_Build",
       "SolarArray",
-      "WaterWheel.Whitepaws"
+      "WaterWheel.Whitepaws",
+      "GeothermalEngine.Whitepaws"
     ],
     "DoNotIncludePlaceableToolGroup": true
   }
