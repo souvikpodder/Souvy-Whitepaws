@@ -10,7 +10,14 @@
         "ChildrenToolsTemplateNames": [
             "Tunnel.Whitepaws",
             "LadderTunnel.Whitepaws",
-            "UPath.Whitepaws"
+            "UPath.Whitepaws",
+            "LeveeTunnel.Whitepaws"
+        ],
+        "ChildrenOrderedIds": [
+            "UPath.Whitepaws",
+            "Tunnel.Whitepaws",
+            "LadderTunnel.Whitepaws",
+            "LeveeTunnel.Whitepaws"
         ],
         "DoNotIncludePlaceableToolGroup": true
     }

@@ -4,6 +4,7 @@
     "Blueprints#append": [
       "Buildings/LadderTunnel.Whitepaws.blueprint",
       "Buildings/UPowerLeveeTunnel.Whitepaws.blueprint",
+      "Buildings/LeveeTunnel.Whitepaws.blueprint",
       "Buildings/Landscaping/Tunnel/UPath.Whitepaws.blueprint",
       "Knatte/Buildings/Power/PowerLevee/PowerLevee.Folktails.blueprint",
       "Knatte/Buildings/Power/PowerLevee/UPowerLevee.Folktails.blueprint",

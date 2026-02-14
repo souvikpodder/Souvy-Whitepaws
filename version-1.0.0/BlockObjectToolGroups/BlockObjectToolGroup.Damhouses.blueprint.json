@@ -2,9 +2,23 @@
   "ToolGroupChildrenSpec": {
     "ChildrenToolsTemplateNames#append": [
       "Dam.Folktails",
-      "Levee.Folktails",
       "Sluice.Folktails",
-      "ImpermeableFloor.Folktails"
+      "ImpermeableFloor.Folktails",
+      "LeveeTunnel.Whitepaws"
+    ],
+    "ChildrenExplicitOrderedIds": [
+      {
+        "Id": "Sluice.Folktails",
+        "Order": 11
+      },
+      {
+        "Id": "ImpermeableFloor.Folktails",
+        "Order": 12
+      },
+      {
+        "Id": "LeveeTunnel.Whitepaws",
+        "Order": 13
+      }
     ],
     "DoNotIncludePlaceableToolGroup": true
   }
