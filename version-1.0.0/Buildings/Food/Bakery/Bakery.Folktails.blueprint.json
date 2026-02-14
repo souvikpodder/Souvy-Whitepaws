@@ -1,0 +1,118 @@
+{
+    "BuildingSpec": {
+        "SelectionSoundName": "Bakery",
+        "LoopingSoundName": "Bakery",
+        "BuildingCost": [
+            {
+                "Id": "MediumCauldron",
+                "Amount": 1
+            },
+            {
+                "Id": "ClayPot",
+                "Amount": 2
+            },
+            {
+                "Id": "Log",
+                "Amount": 30
+            },
+            {
+                "Id": "Plank",
+                "Amount": 80
+            },
+            {
+                "Id": "PineResin",
+                "Amount": 30
+            },
+            {
+                "Id": "Clay",
+                "Amount": 30
+            },
+            {
+                "Id": "Rope",
+                "Amount": 6
+            },
+            {
+                "Id": "Tools",
+                "Amount": 10
+            },
+            {
+                "Id": "Gear",
+                "Amount": 4
+            }
+        ],
+        "ScienceCost": 700,
+        "PlaceFinished": false,
+        "FinishableWithBeaversOnSite": false,
+        "DrawRangeBoundsOnIt": false
+    },
+    "BuildingModelSpec": {
+        "FinishedModelName": "#Finished",
+        "UnfinishedModelName": "#Unfinished",
+        "FinishedUncoveredModelName": "",
+        "UndergroundModelName": "",
+        "ConstructionModeModel": "Finished",
+        "UndergroundModelDepth": 0
+    },
+    "WorkplaceSpec": {
+        "MaxWorkers": 1,
+        "DefaultWorkers": 1,
+        "DefaultWorkerType": "Beaver",
+        "DisallowOtherWorkerTypes": false,
+        "WorkerTypeUnlockCosts": [
+            {
+                "WorkerType": "Bot",
+                "ScienceCost": 750
+            }
+        ]
+    },
+    "ManufactorySpec": {
+        "ProductionRecipeIds": [
+            "Bento_WP"
+        ]
+    },
+    "PlaceableBlockObjectSpec": {
+        "ToolGroupId": "Food",
+        "ToolOrder": 50,
+        "ToolShape": "Square",
+        "Layout": "Single",
+        "CustomPivot": {
+            "HasCustomPivot": false,
+            "Coordinates": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+            }
+        },
+        "CanBeAttachedToTerrainSide": false,
+        "DevModeTool": false
+    },
+    "WorkshopRandomNeedApplierSpec": {
+        "Effects": [
+            {
+                "NeedId": "MinorBurns",
+                "Points": -0.2,
+                "Probability": "High"
+            },
+            {
+                "NeedId": "MinorInjury",
+                "Points": -0.3,
+                "Probability": "High"
+            },
+            {
+                "NeedId": "MajorBurns",
+                "Points": -0.2,
+                "Probability": "Medium"
+            },
+            {
+                "NeedId": "MinorInjury",
+                "Points": -1.0,
+                "Probability": "Low"
+            },
+            {
+                "NeedId": "SevereInjury",
+                "Points": -0.5,
+                "Probability": "Medium"
+            }
+        ]
+    }
+}

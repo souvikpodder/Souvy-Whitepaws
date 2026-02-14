@@ -1,7 +1,7 @@
 {
 	"BuildingPrefabMaterialPatchSpec": {
 		"FactionID": "Whitepaws",
-		"PrefabName": "WoodWorkshop.Folktails",
+		"PrefabName": "Bakery.Folktails",
 		"MaterialEntries": [
 			{
 				"MaterialName": "WindowsAtlas.Folktails",
@@ -9,7 +9,7 @@
 			},
 			{
 				"MaterialName": "Paper.Folktails",
-				"NewMaterialName": "Paper_white.Whitepaws"
+				"NewMaterialName": "Paper.Folktails"
 			},
 			{
 				"MaterialName": "PaintedMetal.Folktails",
@@ -29,23 +29,15 @@
 			},
 			{
 				"MaterialName": "IrregularPlanks_Brown.Folktails",
-				"NewMaterialName": "Pink_wood.Whitepaws"
+				"NewMaterialName": "IrregularPlanks_Brown.Folktails"
 			},
 			{
 				"MaterialName": "ThatchedRoof.Folktails",
-				"NewMaterialName": "GrassRoof.Whitepaws"
+				"NewMaterialName": "ThatchedRoof.Folktails"
 			},
 			{
 				"MaterialName": "BaseMetal.Folktails",
 				"NewMaterialName": "BaseMetal_Gold.Whitepaws"
-			},
-			{
-				"MaterialName": "BaseWoodCommon",
-				"NewMaterialName": "Pink_wood.Whitepaws"
-			},
-			{
-				"MaterialName": "BaseWoodCommon_Amber",
-				"NewMaterialName": "Pink_wood.Whitepaws"
 			}
 		]
 	}

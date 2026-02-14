@@ -5,7 +5,7 @@
         "PluralDisplayNameLocKey": "Good.Bento_WP.PluralDisplayName",
         "ConsumptionEffects": [
             {
-                "Points": 0.5,
+                "Points": 0.1,
                 "NeedId": "Bento_WP"
             },
             {
@@ -102,7 +102,7 @@
         "CarryingAnimation": "CarryInHands",
         "Weight": 1,
         "GoodGroupId": "Food",
-        "GoodOrder": 900070,
+        "GoodOrder": 10,
         "ForceImport": true,
         "Icon": "Sprites/Goods/BentoIcon_WP"
     }

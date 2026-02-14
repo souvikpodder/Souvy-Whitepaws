@@ -68,7 +68,8 @@
       "Buildings/Landscaping/ImpermeableFloor/ImpermeableFloor.Folktails.blueprint",
       "Buildings/Power/LargeWindTurbine/LargeWindTurbine.Folktails.blueprint",
       "Buildings/Power/WindTurbine/WindTurbine.Folktails.blueprint",
-      "Buildings/Wood/WoodWorkshop/WoodWorkshop.Folktails.blueprint"
+      "Buildings/Wood/WoodWorkshop/WoodWorkshop.Folktails.blueprint",
+      "Buildings/Food/Bakery/Bakery.Folktails.blueprint"
     ]
   }
 }

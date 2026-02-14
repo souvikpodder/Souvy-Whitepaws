@@ -2,8 +2,8 @@
     "RecipeSpec": {
         "Id": "Bento_WP",
         "DisplayLocKey": "Good.Bento_WP.PluralDisplayName",
-        "CycleDurationInHours": 1,
-        "CyclesCapacity": 5,
+        "CycleDurationInHours": 4,
+        "CyclesCapacity": 10,
         "Ingredients": [
             {
                 "Amount": 5,
@@ -30,15 +30,15 @@
                 "Id": "FriedRice"
             },
             {
-                "Amount": 1,
+                "Amount": 5,
                 "Id": "GreenStew"
             },
             {
-                "Amount": 1,
+                "Amount": 5,
                 "Id": "ChestnutStew"
             },
             {
-                "Amount": 1,
+                "Amount": 5,
                 "Id": "Deluxestew"
             },
             {
