@@ -66,11 +66,15 @@
       "Knatte/Buildings/Floodgates/MetalFloodgate10.Folktails.blueprint",
       "Buildings/Landscaping/Sluice/Sluice.Folktails.blueprint",
       "Buildings/Landscaping/Dam/Dam.Folktails.blueprint",
+      // "Buildings/Landscaping/Levee/Levee.Folktails.blueprint",
       "Buildings/Landscaping/ImpermeableFloor/ImpermeableFloor.Folktails.blueprint",
       "Buildings/Power/LargeWindTurbine/LargeWindTurbine.Folktails.blueprint",
       "Buildings/Power/WindTurbine/WindTurbine.Folktails.blueprint",
       "Buildings/Wood/WoodWorkshop/WoodWorkshop.Folktails.blueprint",
-      "Buildings/Food/Bakery/Bakery.Folktails.blueprint"
+      "Buildings/Food/Bakery/Bakery.Folktails.blueprint",
+      // "Buildings/Paths/Platform/Platform.Folktails.blueprint",
+      // "Buildings/Paths/DoublePlatform/DoublePlatform.Folktails.blueprint",
+      // "Buildings/Paths/TriplePlatform/TriplePlatform.Folktails.blueprint"
     ]
   }
 }

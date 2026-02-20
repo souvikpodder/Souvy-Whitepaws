@@ -1,8 +1,0 @@
-{
-  "ToolGroupChildrenSpec": {
-    "ChildrenToolsTemplateNames#append": [
-      "WoodWorkshop.Folktails"
-    ],
-    "DoNotIncludePlaceableToolGroup": true
-  }
-}

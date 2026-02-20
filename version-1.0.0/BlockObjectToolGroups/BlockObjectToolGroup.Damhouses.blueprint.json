@@ -8,16 +8,20 @@
     ],
     "ChildrenExplicitOrderedIds": [
       {
+        "Id": "Dam.Folktails",
+        "Order": 3
+      },
+      {
         "Id": "Sluice.Folktails",
-        "Order": 11
+        "Order": 4
       },
       {
         "Id": "ImpermeableFloor.Folktails",
-        "Order": 12
+        "Order": 5
       },
       {
         "Id": "LeveeTunnel.Whitepaws",
-        "Order": 13
+        "Order": 6
       }
     ],
     "DoNotIncludePlaceableToolGroup": true
