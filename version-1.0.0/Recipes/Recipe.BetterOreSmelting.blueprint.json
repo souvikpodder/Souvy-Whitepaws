@@ -1,26 +1,30 @@
 {
   "RecipeSpec": {
-    "Id": "BalloonScrapMetal",
+    "Id": "BetterOreSmelting",
     "BackwardCompatibleIds": [],
-    "DisplayLocKey": "Good.ScrapMetal.PluralDisplayName",
-    "CycleDurationInHours": 72.0,
+    "DisplayLocKey": "Good.ScrapMetal1.DisplayName",
+    "CycleDurationInHours": 7.0,
     "Ingredients": [
       {
-        "Id": "Coal",
+        "Id": "Ironore",
+        "Amount": 40
+      },
+      {
+        "Id": "coal",
         "Amount": 50
       }
     ],
     "Products": [
       {
         "Id": "ScrapMetal",
-        "Amount": 20
+        "Amount": 35
       }
     ],
     "ProducedSciencePoints": 0,
     "Fuel": "",
     "CyclesFuelLasts": 0,
     "FuelCapacity": 0,
-    "CyclesCapacity": 5,
-    "Icon": "Sprites/Goods/ScrapMetalIcon"
+    "CyclesCapacity": 2,
+    "Icon": ""
   }
 }
