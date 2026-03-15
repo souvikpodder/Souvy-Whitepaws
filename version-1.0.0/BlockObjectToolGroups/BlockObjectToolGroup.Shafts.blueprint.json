@@ -3,7 +3,18 @@
     "ChildrenToolsTemplateNames#append": [
       "PowerLevee.Folktails",
       "UPowerLevee.Folktails",
-      "UPowerLeveeTunnel.Whitepaws"
+      "UPowerLeveeTunnel.Whitepaws",
+      "PowerShaftStraight.Whitepaws",
+      "PowerShaft.Folktails",
+      "PowerShaftTurn.Whitepaws",
+      "VerticalPowerShaft.Folktails",
+      "Clutch.Folktails"
+    ],
+    "ChildrenExplicitOrderedIds": [
+      {
+        "Id": "Clutch.Folktails",
+        "Order": 160
+      }
     ],
     "DoNotIncludePlaceableToolGroup": true
   }

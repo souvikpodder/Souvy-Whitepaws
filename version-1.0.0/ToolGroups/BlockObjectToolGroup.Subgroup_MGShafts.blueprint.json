@@ -3,7 +3,12 @@
     "ChildrenToolsTemplateNames#remove": [
       "PowerLevee.Folktails",
       "UPowerLevee.Folktails",
-      "UPowerLeveeTunnel.Whitepaws"
+      "UPowerLeveeTunnel.Whitepaws",
+      "PowerShaftStraight.Whitepaws",
+      "PowerShaft.Folktails",
+      "PowerShaftTurn.Whitepaws",
+      "VerticalPowerShaft.Folktails",
+      "Clutch.Folktails"
     ]
   }
 }

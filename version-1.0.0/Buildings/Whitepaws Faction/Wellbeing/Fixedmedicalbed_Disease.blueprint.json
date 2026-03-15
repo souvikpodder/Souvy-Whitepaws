@@ -1,0 +1,11 @@
+{
+  "AttractionSpec": {
+    "Effects": [
+      {
+        "NeedId": "MildDisease",
+        "PointsPerHour": 0.5,
+        "SatisfyToMaxValue": false
+      }
+    ]
+  }
+}
