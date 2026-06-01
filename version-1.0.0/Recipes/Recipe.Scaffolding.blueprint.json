@@ -7,17 +7,17 @@
     "Ingredients": [
       {
         "Id": "Log",
-        "Amount": 2
+        "Amount": 1
       },
       {
         "Id": "Plank",
-        "Amount": 4
+        "Amount": 1
       }
     ],
     "Products": [
       {
         "Id": "Scaffolding",
-        "Amount": 1
+        "Amount": 2
       }
     ],
     "ProducedSciencePoints": 0,

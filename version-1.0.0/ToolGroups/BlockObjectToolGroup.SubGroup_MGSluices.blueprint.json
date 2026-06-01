@@ -1,0 +1,9 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames#remove": [
+      "Sluice.Emberpelts",
+      "Sluice.Folktails",
+      "Sluice.IronTeeth"
+    ]
+  }
+}

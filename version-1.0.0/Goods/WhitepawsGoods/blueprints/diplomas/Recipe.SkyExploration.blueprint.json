@@ -3,7 +3,7 @@
         "Id": "SkyExploration",
         "BackwardCompatibleIds": [],
         "DisplayLocKey": "Lapantouflemagic.SkyExploration.DisplayName",
-        "CycleDurationInHours": 10.0,
+        "CycleDurationInHours": 2.0,
         "Ingredients": [
             {
                 "Id": "Paper",
@@ -13,7 +13,7 @@
         "Products": [
             {
                 "Id": "SkyExploration",
-                "Amount": 1
+                "Amount": 8
             }
         ],
         "ProducedSciencePoints": 1,

@@ -1,0 +1,21 @@
+{
+  "RecipeSpec": {
+    "Id": "RockToss",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.WasteRock.DisplayName",
+    "CycleDurationInHours": 0.01,
+    "Ingredients": [
+      {
+        "Id": "Rock",
+        "Amount": 20
+      }
+    ],
+    "Products": [],
+    "ProducedSciencePoints": 1,
+    "Fuel": "Rope",
+    "CyclesFuelLasts": 20,
+    "FuelCapacity": 5,
+    "CyclesCapacity": 30,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Rock"
+  }
+}
