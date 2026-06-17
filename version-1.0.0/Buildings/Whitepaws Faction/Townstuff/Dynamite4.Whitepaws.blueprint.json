@@ -12,9 +12,5 @@
         "PlaceFinished": false,
         "FinishableWithBeaversOnSite": true,
         "DrawRangeBoundsOnIt": true
-    },
-    "DynamiteSpec": {
-        "Depth": 30,
-        "ExplosionPrefabPath": "Buildings/Landscaping/Dynamite/DynamiteExplosion"
     }
 }

@@ -1,0 +1,20 @@
+{
+    "BuildingSpec": {
+        "SelectionSoundName": "Dynamite",
+        "LoopingSoundName": "",
+        "BuildingCost": [
+            {
+                "Id": "Explosives",
+                "Amount": 1
+            }
+        ],
+        "ScienceCost": 30,
+        "PlaceFinished": false,
+        "FinishableWithBeaversOnSite": true,
+        "DrawRangeBoundsOnIt": true
+    },
+    "DynamiteSpec": {
+        "Depth": 30,
+        "ExplosionPrefabPath": "Buildings/Landscaping/Dynamite/DynamiteExplosion"
+    }
+}

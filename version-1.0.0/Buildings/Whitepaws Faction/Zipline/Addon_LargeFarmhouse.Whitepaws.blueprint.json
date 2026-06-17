@@ -14,5 +14,9 @@
     },
     "CanBeAttachedToTerrainSide": false,
     "DevModeTool": false
+  },
+  "ZiplineTowerSpec": {
+    "MaxConnections": 8,
+    "MaxDistance": 100
   }
 }

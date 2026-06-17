@@ -1,5 +1,9 @@
 {
   "DwellingSpec": {
     "MaxBeavers": 1
+  },
+  "ZiplineTowerSpec": {
+    "MaxConnections": 8,
+    "MaxDistance": 100
   }
 }
