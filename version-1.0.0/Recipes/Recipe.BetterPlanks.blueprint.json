@@ -1,0 +1,14 @@
+{
+  "RecipeSpec": {
+    "Products": [
+      {
+        "Id": "Plank",
+        "Amount": 8
+      },
+      {
+        "Id": "Sawdust",
+        "Amount": 2
+      }
+    ]
+  }
+}

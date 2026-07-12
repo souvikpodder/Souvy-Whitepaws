@@ -1,18 +1,9 @@
 {
-  "ProcreationHouseSpec": {},
   "DwellingSpec": {
-    "MaxBeavers": 3,
-    "SleepEffects": [
-      {
-        "NeedId": "Sleep",
-        "PointsPerHour": 0.2,
-        "SatisfyToMaxValue": false
-      },
-      {
-        "NeedId": "Shelter",
-        "PointsPerHour": 0.3,
-        "SatisfyToMaxValue": false
-      }
-    ]
+    "MaxBeavers": 0
+  },
+  "WorkplaceSpec": {
+    "MaxWorkers": 4,
+    "DefaultWorkers": 4
   }
 }

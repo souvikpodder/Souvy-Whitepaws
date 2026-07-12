@@ -1,0 +1,9 @@
+{
+  "WorkplaceSpec": {
+    "MaxWorkers": 3,
+    "DefaultWorkers": 3,
+    "DefaultWorkerType": "Beaver",
+    "DisallowOtherWorkerTypes": true,
+    "WorkerTypeUnlockCosts": []
+  }
+}

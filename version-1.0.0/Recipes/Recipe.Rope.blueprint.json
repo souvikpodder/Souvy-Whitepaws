@@ -1,0 +1,10 @@
+{
+  "RecipeSpec": {
+    "Products": [
+      {
+        "Id": "Rope",
+        "Amount": 4
+      }
+    ]
+  }
+}
