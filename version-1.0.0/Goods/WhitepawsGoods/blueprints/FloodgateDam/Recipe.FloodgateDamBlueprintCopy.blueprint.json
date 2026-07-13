@@ -1,0 +1,33 @@
+{
+  "RecipeSpec": {
+    "Id": "FloodgateDamBlueprintCopy",
+    "DisplayLocKey": "Lapantouflemagic.NewFloodgateDam.DisplayName",
+    "CycleDurationInHours": 5,
+    "CyclesCapacity": 5,
+    "Ingredients": [
+      {
+        "Id": "FloodgateDamBlueprintStar",
+        "Amount": 1
+      },
+      {
+        "Id": "Pencils",
+        "Amount": 2
+      },
+      {
+        "Id": "Paper",
+        "Amount": 12
+      }
+    ],
+    "Products": [
+      {
+        "Id": "FloodgateDamBlueprint",
+        "Amount": 5
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Icon": "sprites/Whitepaws Sprites/Buildings/dams/FloodgateDam",
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0
+  }
+}

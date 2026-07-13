@@ -1,0 +1,25 @@
+{
+  "GoodSpec": {
+    "Id": "ENSBlueprintBlue",
+    "BackwardCompatibleIds": [],
+    "ConsumptionEffects": [],
+    "GoodType": "Scroll",
+    "StockpileVisualization": "Box",
+    "VisibleContainer": "Box",
+    "ContainerColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 1.0,
+      "a": 0.0
+    },
+    "ContainerMaterial": "",
+    "CarryingAnimation": "CarryInHands",
+    "Weight": 1,
+    "GoodGroupId": "Plan",
+    "GoodOrder": 0,
+    "Icon": "sprites/Whitepaws Sprites/Goods/MechanicPlan",
+    "ForceImport": false,
+    "DisplayNameLocKey": "Blueprint.ENSBlue.DisplayName",
+    "PluralDisplayNameLocKey": "Blueprint.ENSBlue.PluralDisplayName"
+  }
+}

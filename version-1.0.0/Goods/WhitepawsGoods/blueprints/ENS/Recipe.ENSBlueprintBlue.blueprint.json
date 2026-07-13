@@ -1,0 +1,54 @@
+{
+  "RecipeSpec": {
+    "Id": "ENSBlueprintBlue",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Blueprint.ENSBlue.DisplayName",
+    "CycleDurationInHours": 12.0,
+    "Ingredients": [
+      {
+        "Id": "Pencils",
+        "Amount": 20
+      },
+      {
+        "Id": "Paper",
+        "Amount": 100
+      },
+      {
+        "Id": "RedSoda",
+        "Amount": 100
+      },
+      {
+        "Id": "Log",
+        "Amount": 50
+      },
+      {
+        "Id": "BrainSalts",
+        "Amount": 50
+      },
+      {
+        "Id": "MetalBlock",
+        "Amount": 20
+      },
+      {
+        "Id": "Plank",
+        "Amount": 100
+      },
+      {
+        "Id": "Sunfloweroil",
+        "Amount": 100
+      }
+    ],
+    "Products": [
+      {
+        "Id": "ENSBlueprintBlue",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 50,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 1,
+    "Icon": "sprites/Whitepaws Sprites/Buildings/ENSBlue"
+  }
+}

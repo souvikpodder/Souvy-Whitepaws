@@ -1,0 +1,20 @@
+{
+  "GoodSpec": {
+    "Id": "SAquiferPumpBlueprint",
+  "BackwardCompatibleIds": [
+    "SAquiferPumpBlueprint",
+    "MechanicalDrillBlueprint"
+  ],
+  "DisplayNameLocKey": "Lapantouflemagic.SAquiferPumpBlueprint.DisplayName",
+  "PluralDisplayNameLocKey": "Lapantouflemagic.SAquiferPumpBlueprint.PluralDisplayName",
+  "ConsumptionEffects": [
+    ],
+   "GoodType": "Scroll",
+   "StockpileVisualization": "Box",
+ "VisibleContainer": "Box",
+  "CarryingAnimation": "CarryInHands",
+  "Weight": 1,
+  "GoodGroupId": "Plan",
+  "Icon": "sprites/Whitepaws Sprites/Goods/MechanicPlan",
+  "RequiredFeatureToggle": ""
+}}

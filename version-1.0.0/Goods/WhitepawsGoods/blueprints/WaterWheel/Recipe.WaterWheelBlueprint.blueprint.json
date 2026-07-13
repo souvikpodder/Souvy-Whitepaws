@@ -1,0 +1,46 @@
+{
+  "RecipeSpec": {
+    "Id": "WaterWheelBlueprint",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.WaterWheelBlueprint.DisplayName",
+    "CycleDurationInHours": 12.0,
+    "Ingredients": [
+      {
+        "Id": "Pencils",
+        "Amount": 10
+      },
+      {
+        "Id": "Paper",
+        "Amount": 50
+      },
+      {
+        "Id": "BrainSalts",
+        "Amount": 20
+      },
+      {
+        "Id": "Log",
+        "Amount": 20
+      },
+      {
+        "Id": "Plank",
+        "Amount": 25
+      },
+      {
+        "Id": "Sunfloweroil",
+        "Amount": 50
+      }
+    ],
+    "Products": [
+      {
+        "Id": "WaterWheelBlueprint",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 50,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 1,
+    "Icon": "Buildings/Power/LargeWaterWheel/LargeWaterWheelIcon"
+  }
+}

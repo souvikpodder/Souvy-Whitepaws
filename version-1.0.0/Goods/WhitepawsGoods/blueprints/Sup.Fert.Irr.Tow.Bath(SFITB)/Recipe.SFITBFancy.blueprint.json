@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "SFITBBlueprintFancy",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Lapantouflemagic.WonderIrrigationTower.DisplayName",
+    "CycleDurationInHours": 1.0,
+    "Ingredients": [
+      {
+        "Id": "SFITBBlueprint",
+        "Amount": 1
+      }
+    ],
+    "Products": [
+      {
+        "Id": "SFITBBlueprintStar",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Buildings/SuperIrrigation"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "GoodSpec": {
+    "Id": "FloodgateDamBlueprint",
+    "BackwardCompatibleIds": [],
+    "ConsumptionEffects": [],
+    "GoodType": "Scroll",
+    "StockpileVisualization": "Box",
+    "VisibleContainer": "Box",
+    "ContainerColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "ContainerMaterial": "",
+    "CarryingAnimation": "CarryInHands",
+    "Weight": 1,
+    "GoodGroupId": "Plan",
+    "GoodOrder": 0,
+    "Icon": "sprites/Whitepaws Sprites/Goods/MechanicPlan",
+    "ForceImport": false,
+    "DisplayNameLocKey": "Lapantouflemagic.FloodgateDamBlueprint.DisplayName",
+    "PluralDisplayNameLocKey": "Lapantouflemagic.FloodgateDamBlueprint.PluralDisplayName"
+  }
+}

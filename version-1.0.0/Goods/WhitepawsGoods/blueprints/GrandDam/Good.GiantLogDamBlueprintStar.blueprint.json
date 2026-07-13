@@ -1,0 +1,28 @@
+{
+  "GoodSpec": {
+    "Id": "GiantLogDamBlueprintStar",
+    "BackwardCompatibleIds": [
+      "MECHWaterpumpBlueprintStar",
+      "GiantBuriedTankBlueprintOriginal"
+    ],
+    "ConsumptionEffects": [],
+    "GoodType": "Scroll",
+    "StockpileVisualization": "Box",
+    "VisibleContainer": "Box",
+    "ContainerColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 0.0
+    },
+    "ContainerMaterial": "",
+    "CarryingAnimation": "CarryInHands",
+    "Weight": 1,
+    "GoodGroupId": "Plan",
+    "GoodOrder": 0,
+    "Icon": "sprites/Whitepaws Sprites/Goods/ArchitectPlanStar",
+    "ForceImport": true,
+    "DisplayNameLocKey": "Good.GiantLogDamFancyBlueprint.DisplayName",
+    "PluralDisplayNameLocKey": "Good.GiantLogDamFancyBlueprint.PluralDisplayName"
+  }
+}
