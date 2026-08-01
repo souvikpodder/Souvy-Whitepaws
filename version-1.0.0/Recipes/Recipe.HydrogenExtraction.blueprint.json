@@ -1,0 +1,10 @@
+{
+  "RecipeSpec": {
+    "Products": [
+      {
+        "Id": "Hydrogen",
+        "Amount": 100
+      }
+    ]
+  }
+}

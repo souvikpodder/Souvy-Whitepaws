@@ -1,0 +1,18 @@
+{
+  "ValveSpec": {
+    "MaxOutflowLimit": 20,
+    "OutflowLimitStep": 0.05,
+    "DefaultOutflowLimitEnabled": true,
+    "DefaultOutflowLimit": 1,
+    "DefaultAutomationOutflowLimitEnabled": true,
+    "DefaultAutomationOutflowLimit": 0.0,
+    "RateOfChangeHighPrimary": 0.5,
+    "RateOfChangeHighSecondary": 0.1,
+    "RateOfChangeLowPrimary": 0.3,
+    "RateOfChangeLowSecondary": 0.1,
+    "RateOfChangePrimaryTicks": 1,
+    "RateOfChangePrimaryToSecondaryTicks": 30,
+    "ReactionSpeedExponent": 7.0,
+    "ReactionSpeedStep": 0.01
+  }
+}
