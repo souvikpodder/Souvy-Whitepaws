@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonTools",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Tools.PluralDisplayName",
+    "CycleDurationInHours": 5,
+    "CyclesCapacity": 5,
+    "Ingredients": [
+      {
+        "Id": "Salt",
+        "Amount": 25
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Tools",
+        "Amount": 50
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Tools"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "RecipeSpec": {
+    "Id": "WashingMachineBlueprintCopy",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Lapantouflemagic.WashingMachine.DisplayName",
+    "CycleDurationInHours": 5.0,
+    "Ingredients": [
+      {
+        "Id": "WashingMachineBlueprintOriginal",
+        "Amount": 1
+      },
+      {
+        "Id": "Pencils",
+        "Amount": 2
+      },
+      {
+        "Id": "Paper",
+        "Amount": 12
+      }
+    ],
+    "Products": [
+      {
+        "Id": "WashingMachineBlueprint",
+        "Amount": 5
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Buildings/WashingMachine"
+  }
+}

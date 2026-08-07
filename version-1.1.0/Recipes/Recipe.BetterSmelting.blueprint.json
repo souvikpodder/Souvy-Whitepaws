@@ -1,0 +1,34 @@
+{
+  "RecipeSpec": {
+    "Id": "Bettersmelting",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.ScrapMetal.DisplayName",
+    "CycleDurationInHours": 10.0,
+    "Ingredients": [
+      {
+        "Id": "Ironore",
+        "Amount": 100
+      },
+      {
+        "Id": "Coal",
+        "Amount": 75
+      },
+      {
+        "Id": "Methane",
+        "Amount": 40
+      }
+    ],
+    "Products": [
+      {
+        "Id": "ScrapMetal",
+        "Amount": 100
+      }
+    ],
+    "ProducedSciencePoints": 2,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 6,
+    "Icon": "sprites/Goods/ScrapMetalIcon"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenExplicitOrderedIds": [
+      {
+        "Id": "LargeMetalPlatform.Folktails",
+        "Order": 10
+      },
+      {
+        "Id": "MetalPillar.Folktails",
+        "Order": 20
+      },
+      {
+        "Id": "MetalPillars.Folktails",
+        "Order": 30
+      },
+      {
+        "Id": "MetalPlatform.Folktails",
+        "Order": 40
+      },
+      {
+        "Id": "MetalPlatform1x1.Folktails",
+        "Order": 50
+      },
+      {
+        "Id": "MetalPlatform3x3.Folktails",
+        "Order": 60
+      },
+      {
+        "Id": "MetalPlatform5x3.Folktails",
+        "Order": 70
+      },
+      {
+        "Id": "MetalPlatform5x5.Folktails",
+        "Order": 80
+      },
+      {
+        "Id": "MetalPlatform7x7.Folktails",
+        "Order": 90
+      },
+      {
+        "Id": "MetalPlatform_1.Folktails",
+        "Order": 100
+      },
+      {
+        "Id": "Overhang2x1.Folktails",
+        "Order": 110
+      },
+      {
+        "Id": "Overhang3x1.Folktails",
+        "Order": 120
+      },
+      {
+        "Id": "Overhang4x1.Folktails",
+        "Order": 130
+      },
+      {
+        "Id": "Overhang5x1.Folktails",
+        "Order": 140
+      },
+      {
+        "Id": "Overhang6x1.Folktails",
+        "Order": 150
+      },
+      {
+        "Id": "Overhang7x1.Folktails",
+        "Order": 160
+      },
+      {
+        "Id": "HangingOverhang.Folktails",
+        "Order": 170
+      }
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  }
+}

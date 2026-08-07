@@ -1,0 +1,48 @@
+{
+  "RecipeSpec": {
+    "Id": "SAquiferPumpBlueprint",
+    "BackwardCompatibleIds": [
+      "MechanicalDrillBlueprint"
+    ],
+    "DisplayLocKey": "Lapantouflemagic.SAquiferPumpBlueprint.DisplayName",
+    "CycleDurationInHours": 12.0,
+    "Ingredients": [
+      {
+        "Id": "Pencils",
+        "Amount": 10
+      },
+      {
+        "Id": "Paper",
+        "Amount": 50
+      },
+      {
+        "Id": "BrainSalts",
+        "Amount": 20
+      },
+      {
+        "Id": "Log",
+        "Amount": 20
+      },
+      {
+        "Id": "ScrapMetal",
+        "Amount": 20
+      },
+      {
+        "Id": "Water",
+        "Amount": 300
+      }
+    ],
+    "Products": [
+      {
+        "Id": "SAquiferPumpBlueprint",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 50,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 1,
+    "Icon": "sprites/Whitepaws Sprites/Buildings/SAquiferPump"
+  }
+}

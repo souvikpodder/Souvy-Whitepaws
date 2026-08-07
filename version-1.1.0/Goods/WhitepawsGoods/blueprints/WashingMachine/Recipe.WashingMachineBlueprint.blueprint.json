@@ -1,0 +1,46 @@
+{
+  "RecipeSpec": {
+    "Id": "WashingMachineBlueprint",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.MechanicalWaterpumpBlueprint.DisplayName",
+    "CycleDurationInHours": 12.0,
+    "Ingredients": [
+      {
+        "Id": "Pencils",
+        "Amount": 10
+      },
+      {
+        "Id": "Paper",
+        "Amount": 50
+      },
+      {
+        "Id": "BrainSalts",
+        "Amount": 20
+      },
+      {
+        "Id": "Log",
+        "Amount": 20
+      },
+      {
+        "Id": "Metalfixation",
+        "Amount": 20
+      },
+      {
+        "Id": "Badwater",
+        "Amount": 200
+      }
+    ],
+    "Products": [
+      {
+        "Id": "WashingMachineBlueprint",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 50,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 1,
+    "Icon": "sprites/Whitepaws Sprites/Buildings/WashingMachine"
+  }
+}

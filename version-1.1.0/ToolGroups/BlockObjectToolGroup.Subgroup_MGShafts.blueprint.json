@@ -1,0 +1,12 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames#remove": [
+      "ImpermeablePowerShaftTunnel.Whitepaws",
+      "PowerShaftStraight.Whitepaws",
+      "PowerShaft.Folktails",
+      "PowerShaftTurn.Whitepaws",
+      "VerticalPowerShaft.Folktails",
+      "Clutch.Folktails"
+    ]
+  }
+}

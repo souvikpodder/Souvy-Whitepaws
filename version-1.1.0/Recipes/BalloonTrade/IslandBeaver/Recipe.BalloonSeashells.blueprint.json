@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonSeashells",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Seashells.PluralDisplayName",
+    "CycleDurationInHours": 5,
+    "CyclesCapacity": 5,
+    "Ingredients": [
+      {
+        "Id": "Metalfixation",
+        "Amount": 30
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Seashells",
+        "Amount": 50
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Seashell"
+  }
+}

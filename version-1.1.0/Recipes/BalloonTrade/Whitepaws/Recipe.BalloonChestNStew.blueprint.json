@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonChestNStew",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.ChestnutStew.PluralDisplayName",
+    "CycleDurationInHours": 5,
+    "Ingredients": [
+      {
+        "Id": "Scaffolding",
+        "Amount": 10
+      }
+    ],
+    "Products": [
+      {
+        "Id": "ChestnutStew",
+        "Amount": 50
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Goods/ChestnutStew"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames#append": [
+      "CrappyWaterWheel.Whitepaws",
+      "WaterWheel.Whitepaws",
+      "LargeWaterWheel.Whitepaws",
+      "Engine.Whitepaws",
+      "GeothermalEngine.Whitepaws",
+      "SolarArray.Whitepaws",
+      "WindTurbine.Folktails",
+      "LargeWindTurbine.Folktails"
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  }
+}

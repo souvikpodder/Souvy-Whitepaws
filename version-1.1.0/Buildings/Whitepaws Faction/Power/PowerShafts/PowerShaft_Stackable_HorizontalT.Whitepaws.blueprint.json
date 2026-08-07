@@ -1,0 +1,20 @@
+{
+  "BuildingSpec": {
+    "SelectionSoundName": "Shaft",
+    "LoopingSoundName": "",
+    "BuildingCost": [
+      {
+        "Id": "Log",
+        "Amount": 1
+      },
+      {
+        "Id": "Gear",
+        "Amount": 1
+      }
+    ],
+    "ScienceCost": 30,
+    "PlaceFinished": false,
+    "FinishableWithBeaversOnSite": false,
+    "DrawRangeBoundsOnIt": false
+  }
+}

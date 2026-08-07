@@ -1,0 +1,16 @@
+{
+  "GoodConsumingAttractionSpec": {},
+  "GoodConsumingBuildingSpec": {
+    "FullInventoryWorkHours": 25,
+    "ConsumedGoods": [
+      {
+        "GoodId": "Rock",
+        "GoodPerHour": 200.0
+      },
+      {
+        "GoodId": "Rope",
+        "GoodPerHour": 0.05
+      }
+    ]
+  }
+}

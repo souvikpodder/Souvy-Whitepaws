@@ -1,0 +1,16 @@
+{
+  "BuildingSpec": {
+    "SelectionSoundName": "Dynamite",
+    "LoopingSoundName": "",
+    "BuildingCost": [
+      {
+        "Id": "Explosives",
+        "Amount": 1
+      }
+    ],
+    "ScienceCost": 150,
+    "PlaceFinished": false,
+    "FinishableWithBeaversOnSite": true,
+    "DrawRangeBoundsOnIt": true
+  }
+}

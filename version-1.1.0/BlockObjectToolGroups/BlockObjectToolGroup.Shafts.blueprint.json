@@ -1,0 +1,84 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames#append": [
+      "PowerShaft.Folktails",
+      "VerticalPowerShaft.Folktails",
+      "PowerShaftDownward.Whitepaws",
+      "PowerShaftUpTurn.Whitepaws",
+      "PowerShaftVertical.Whitepaws",
+      "PowerShaft_Flat_Universal.Whitepaws",
+      "PowerShaft_Stackable_DownwardT.Whitepaws",
+      "PowerShaft_Stackable_HorizontalT.Whitepaws",
+      "PowerShaft_Stackable_Universal.Whitepaws",
+      "PowerShaft_Stackable_UpwardT.Whitepaws",
+      "PowerShaft_Stackable_VerticalT.Whitepaws",
+      "Clutch.Whitepaws",
+      "Clutch.Folktails",
+      "ImpermeablePowerShaftTunnel.Whitepaws",
+      "ImpermeablePowerShaft.Folktails"
+    ],
+    "ChildrenExplicitOrderedIds": [
+      {
+        "Id": "Clutch.Folktails",
+        "Order": 10
+      },
+      {
+        "Id": "PowerShaft.Folktails",
+        "Order": 20
+      },
+      {
+        "Id": "VerticalPowerShaft.Folktails",
+        "Order": 30
+      },
+      {
+        "Id": "PowerShaftDownward.Whitepaws",
+        "Order": 40
+      },
+      {
+        "Id": "PowerShaftUpTurn.Whitepaws",
+        "Order": 50
+      },
+      {
+        "Id": "PowerShaftVertical.Whitepaws",
+        "Order": 60
+      },
+      {
+        "Id": "PowerShaft_Flat_Universal.Whitepaws",
+        "Order": 70
+      },
+      {
+        "Id": "PowerShaft_Stackable_DownwardT.Whitepaws",
+        "Order": 80
+      },
+      {
+        "Id": "PowerShaft_Stackable_HorizontalT.Whitepaws",
+        "Order": 90
+      },
+      {
+        "Id": "PowerShaft_Stackable_Universal.Whitepaws",
+        "Order": 100
+      },
+      {
+        "Id": "PowerShaft_Stackable_UpwardT.Whitepaws",
+        "Order": 110
+      },
+      {
+        "Id": "PowerShaft_Stackable_VerticalT.Whitepaws",
+        "Order": 120
+      },
+      {
+        "Id": "Clutch.Whitepaws",
+        "Order": 130
+      },
+      {
+        "Id": "ImpermeablePowerShaft.Folktails",
+        "Order": 140
+      },
+      {
+        "Id": "ImpermeablePowerShaftTunnel.Whitepaws",
+        "Order": 150
+      }
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  }
+}

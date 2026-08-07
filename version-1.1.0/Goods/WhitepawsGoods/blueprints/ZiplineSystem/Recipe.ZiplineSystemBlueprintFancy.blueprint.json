@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "ZiplineSystemBlueprintFancy",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Reciepe.ZiplineSystemDuplication.DisplayName",
+    "CycleDurationInHours": 1.0,
+    "Ingredients": [
+      {
+        "Id": "ZiplineSystemBlueprint",
+        "Amount": 1
+      }
+    ],
+    "Products": [
+      {
+        "Id": "ZiplineSystemBlueprintStar",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "Buildings/Paths/ZiplineStation/ZiplineStationIcon"
+  }
+}

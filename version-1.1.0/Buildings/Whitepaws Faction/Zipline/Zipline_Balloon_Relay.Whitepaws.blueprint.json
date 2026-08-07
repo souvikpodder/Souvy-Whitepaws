@@ -1,0 +1,6 @@
+{
+  "ZiplineTowerSpec": {
+    "MaxConnections": 8,
+    "MaxDistance": 100
+  }
+}

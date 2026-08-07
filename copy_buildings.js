@@ -1,8 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
-const srcDir = 'c:/Program Files (x86)/Steam/steamapps/workshop/content/1062090/3647584961/Buildings';
-const destDir = 'c:/Users/souvi/Documents/Timberborn/Mods/Souvy-Whitepaws/version-1.0.0/Buildings';
+const srcDir = 'c:/Program Files (x86)/Steam/steamapps/workshop/content/1062090/3647584961/version-1.1/Buildings';
+const destDir = 'c:/Users/souvi/Documents/Timberborn/Mods/Souvy-Whitepaws/version-1.1.0/Buildings';
 
 function walk(dir, fileList = []) {
   const files = fs.readdirSync(dir);

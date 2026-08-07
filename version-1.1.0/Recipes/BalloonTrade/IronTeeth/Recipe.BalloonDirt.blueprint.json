@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonDirt",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Dirt.DisplayName",
+    "CycleDurationInHours": 5,
+    "Ingredients": [
+      {
+        "Id": "Satchel",
+        "Amount": 5
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Dirt",
+        "Amount": 50
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "Sprites/Goods/DirtIcon"
+  }
+}

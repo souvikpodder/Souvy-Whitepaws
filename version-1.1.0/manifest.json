@@ -1,0 +1,14 @@
+{
+  "Name": "Zzz Souvy Whitepaws",
+  "Version": "1.1.0",
+  "Id": "Souvy.Whitepaws",
+  "MinimumGameVersion": "1.1.0.0",
+  "Description": "This mod Adds common building items to Whitepaws",
+  "RequiredMods": [
+    {
+      "Id": "Lapantoufleagic.WhitepawsFaction",
+      "MinimumVersion": "6.0.9"
+    }
+  ],
+  "OptionalMods": []
+}

@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonInsectLarva",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Lapantouflemagic.InsectLarva.PluralDisplayName",
+    "CycleDurationInHours": 5,
+    "Ingredients": [
+      {
+        "Id": "Librarybooks",
+        "Amount": 5
+      }
+    ],
+    "Products": [
+      {
+        "Id": "InsectLarva",
+        "Amount": 3
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Goods/InsectLarva"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "RecipeSpec": {
+    "Id": "Librarybooks",
+    "DisplayLocKey": "Good.Librarybooks.PluralDisplayName",
+    "CycleDurationInHours": 3,
+    "CyclesCapacity": 100,
+    "Ingredients": [
+      {
+        "Id": "Paper",
+        "Amount": 1
+      },
+      {
+        "Id": "Pencils",
+        "Amount": 1
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Librarybooks",
+        "Amount": 10
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Librarybooks",
+    "BackwardCompatibleIds": []
+  }
+}

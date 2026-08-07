@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonSunfloweroil",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Sunfloweroil.PluralDisplayName",
+    "CycleDurationInHours": 5,
+    "Ingredients": [
+      {
+        "Id": "Scaffolding",
+        "Amount": 6
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Sunfloweroil",
+        "Amount": 30
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Sunfloweroil"
+  }
+}

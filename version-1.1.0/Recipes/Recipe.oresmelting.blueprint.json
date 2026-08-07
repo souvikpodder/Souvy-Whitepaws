@@ -1,0 +1,29 @@
+{
+  "RecipeSpec": {
+    "Id": "oresmelting",
+    "DisplayLocKey": "Good.ScrapMetal1.DisplayName",
+    "CycleDurationInHours": 5,
+    "CyclesCapacity": 2,
+    "Ingredients": [
+      {
+        "Id": "Ironore",
+        "Amount": 25
+      },
+      {
+        "Id": "Coal",
+        "Amount": 25
+      }
+    ],
+    "Products": [
+      {
+        "Id": "ScrapMetal",
+        "Amount": 15
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "BackwardCompatibleIds": []
+  }
+}

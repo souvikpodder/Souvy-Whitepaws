@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonClay",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Clay.PluralDisplayName",
+    "CycleDurationInHours": 5,
+    "Ingredients": [
+      {
+        "Id": "Sandals",
+        "Amount": 12
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Clay",
+        "Amount": 50
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Clay"
+  }
+}

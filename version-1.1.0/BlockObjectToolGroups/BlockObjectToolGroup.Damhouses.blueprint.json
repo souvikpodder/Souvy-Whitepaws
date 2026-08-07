@@ -1,0 +1,34 @@
+{
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames#append": [
+      "Dam.Folktails",
+      "FillValve.Folktails",
+      "ThrottlingValve.Folktails",
+      "ImpermeableFloor.Folktails",
+      "LeveeTunnel.Whitepaws"
+    ],
+    "ChildrenExplicitOrderedIds": [
+      {
+        "Id": "Dam.Folktails",
+        "Order": 3
+      },
+      {
+        "Id": "FillValve.Folktails",
+        "Order": 4
+      },
+      {
+        "Id": "ThrottlingValve.Folktails",
+        "Order": 5
+      },
+      {
+        "Id": "ImpermeableFloor.Folktails",
+        "Order": 6
+      },
+      {
+        "Id": "LeveeTunnel.Whitepaws",
+        "Order": 7
+      }
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  }
+}

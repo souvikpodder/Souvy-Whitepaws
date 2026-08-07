@@ -1,0 +1,36 @@
+{
+  "RecipeSpec": {
+    "Id": "SAquiferPumpBlueprintCopy",
+    "BackwardCompatibleIds": [
+      "MechanicalDrillBlueprintCopy"
+    ],
+    "DisplayLocKey": "Lapantouflemagic.SmallAquiferPump.DisplayName",
+    "CycleDurationInHours": 5,
+    "CyclesCapacity": 5,
+    "Ingredients": [
+      {
+        "Id": "SAquiferPumpBlueprintStar",
+        "Amount": 1
+      },
+      {
+        "Id": "Pencils",
+        "Amount": 2
+      },
+      {
+        "Id": "Paper",
+        "Amount": 12
+      }
+    ],
+    "Products": [
+      {
+        "Id": "SAquiferPumpBlueprint",
+        "Amount": 5
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Icon": "sprites/Whitepaws Sprites/Buildings/SAquiferPump",
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0
+  }
+}

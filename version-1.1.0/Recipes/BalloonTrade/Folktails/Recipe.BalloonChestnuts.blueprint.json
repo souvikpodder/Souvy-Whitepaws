@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonChestnuts",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Chestnut.PluralDisplayName",
+    "CycleDurationInHours": 5,
+    "Ingredients": [
+      {
+        "Id": "Salt",
+        "Amount": 8
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Chestnut",
+        "Amount": 50
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "Sprites/Goods/ChestnutIcon"
+  }
+}

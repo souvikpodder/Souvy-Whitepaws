@@ -1,0 +1,7 @@
+{
+  "MechanicalNodeSpec": {
+    "PowerOutput": 700,
+    "PowerInput": 0,
+    "IsShaft": false
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonApple",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.Apple.PluralDisplayName",
+    "CycleDurationInHours": 5,
+    "Ingredients": [
+      {
+        "Id": "BrainSalts",
+        "Amount": 5
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Apple_WP",
+        "Amount": 50
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Goods/Apple"
+  }
+}

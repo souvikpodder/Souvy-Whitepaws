@@ -1,0 +1,26 @@
+{
+  "RecipeSpec": {
+    "Id": "BalloonExoticSeeds",
+    "BackwardCompatibleIds": [],
+    "DisplayLocKey": "Good.ExoticSeeds.PluralDisplayName",
+    "CycleDurationInHours": 5,
+    "Ingredients": [
+      {
+        "Id": "Librarybooks",
+        "Amount": 5
+      }
+    ],
+    "Products": [
+      {
+        "Id": "ExoticSeeds",
+        "Amount": 5
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Goods/ExoticSeeds"
+  }
+}

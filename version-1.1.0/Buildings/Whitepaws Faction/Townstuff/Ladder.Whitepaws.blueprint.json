@@ -1,0 +1,28 @@
+{
+  "BuildingSpec": {
+    "SelectionSoundName": "Default",
+    "LoopingSoundName": "",
+    "BuildingCost": [
+      {
+        "Id": "Scaffolding",
+        "Amount": 1
+      },
+      {
+        "Id": "Plank",
+        "Amount": 1
+      },
+      {
+        "Id": "MetalBlock",
+        "Amount": 1
+      },
+      {
+        "Id": "Rope",
+        "Amount": 1
+      }
+    ],
+    "ScienceCost": 800,
+    "PlaceFinished": false,
+    "FinishableWithBeaversOnSite": true,
+    "DrawRangeBoundsOnIt": false
+  }
+}

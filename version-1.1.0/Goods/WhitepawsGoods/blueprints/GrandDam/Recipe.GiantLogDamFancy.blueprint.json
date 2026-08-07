@@ -1,0 +1,28 @@
+{
+  "RecipeSpec": {
+    "Id": "GiantLogDamBlueprintFancy",
+    "BackwardCompatibleIds": [
+      "MECHWaterpumpBlueprintFancy"
+    ],
+    "DisplayLocKey": "Lapantouflemagic.primitivedamupgradeMK3.DisplayName",
+    "CycleDurationInHours": 1.0,
+    "Ingredients": [
+      {
+        "Id": "GiantLogDamBlueprint",
+        "Amount": 1
+      }
+    ],
+    "Products": [
+      {
+        "Id": "GiantLogDamBlueprintStar",
+        "Amount": 1
+      }
+    ],
+    "ProducedSciencePoints": 0,
+    "Fuel": "",
+    "CyclesFuelLasts": 0,
+    "FuelCapacity": 0,
+    "CyclesCapacity": 5,
+    "Icon": "sprites/Whitepaws Sprites/Buildings/dams/GenericDamMK2"
+  }
+}
