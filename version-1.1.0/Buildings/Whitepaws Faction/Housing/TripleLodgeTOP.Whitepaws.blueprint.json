@@ -1,6 +1,7 @@
 {
+  "ProcreationHouseSpec": {},
   "DwellingSpec": {
-    "MaxBeavers": 6,
+    "MaxBeavers": 12,
     "SleepEffects": [
       {
         "NeedId": "Sleep",

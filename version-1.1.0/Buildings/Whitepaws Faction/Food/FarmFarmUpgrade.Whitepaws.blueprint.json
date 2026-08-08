@@ -1,5 +1,9 @@
 {
-  "DwellingSpec": {
-    "MaxBeavers": 1
+  "WorkplaceSpec": {
+    "MaxWorkers": 2,
+    "DefaultWorkers": 2,
+    "DefaultWorkerType": "Beaver",
+    "DisallowOtherWorkerTypes": true,
+    "WorkerTypeUnlockCosts": []
   }
 }
