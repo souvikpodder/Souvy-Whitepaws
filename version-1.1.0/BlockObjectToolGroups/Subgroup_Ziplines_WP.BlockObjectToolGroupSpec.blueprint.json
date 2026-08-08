@@ -12,7 +12,9 @@
       "Zipline_SmallTower.Whitepaws",
       "ZiplinePylon.Whitepaws",
       "Zipline_Balloon_Relay.Whitepaws",
-      "Addon_LargeFarmhouse.Whitepaws"
+      "Addon_LargeFarmhouse.Whitepaws",
+      "Addon_TreeNursery.Whitepaws",
+      "Zipline_Balloon_Terminal.Whitepaws"
     ],
     "DoNotIncludePlaceableToolGroup": false
   }

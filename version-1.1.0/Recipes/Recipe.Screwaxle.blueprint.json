@@ -1,0 +1,21 @@
+{
+  "RecipeSpec": {
+    "CycleDurationInHours": 100,
+    "Ingredients": [
+      {
+        "Id": "Log",
+        "Amount": 1
+      }
+    ],
+    "Products": [
+      {
+        "Id": "Screwaxle",
+        "Amount": 2
+      },
+      {
+        "Id": "Sawdust",
+        "Amount": 8
+      }
+    ]
+  }
+}
