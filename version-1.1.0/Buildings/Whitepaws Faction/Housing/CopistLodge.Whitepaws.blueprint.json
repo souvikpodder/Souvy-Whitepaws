@@ -14,5 +14,11 @@
         "SatisfyToMaxValue": false
       }
     ]
+  },
+  "WaterObstacleSpec": {
+    "Coordinates": []
+  },
+  "FinishableWaterObstacleSpec": {
+    "Height": 0
   }
 }
