@@ -82,7 +82,12 @@
       "Buildings/DistrictManagement/CraneSection/CraneSection.Folktails.blueprint",
       "Buildings/CraneHeads/Jib/Jib.Folktails.blueprint",
       "Buildings/CraneHeads/Trebuchet/Trebuchet.Folktails.blueprint",
-      "Buildings/CraneHeads/CranetopWindmill/CranetopWindmill.Folktails.blueprint"
+      "Buildings/CraneHeads/CranetopWindmill/CranetopWindmill.Folktails.blueprint",
+      "Buildings/Paths/Tubeway/Tubeway.IronTeeth.blueprint",
+      "Buildings/Paths/TubewayStation/TubewayStation.IronTeeth.blueprint",
+      "Buildings/Paths/VerticalTubeway/VerticalTubeway.IronTeeth.blueprint",
+      "Buildings/Paths/ImpermeableTubeway/ImpermeableTubeway.IronTeeth.blueprint",
+      "Buildings/Paths/Tubeway/TubewayStation.Tiny.IronTeeth.blueprint"
     ]
   }
 }

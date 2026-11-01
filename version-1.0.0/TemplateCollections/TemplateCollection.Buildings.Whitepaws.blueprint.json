@@ -72,9 +72,10 @@
       "Buildings/Power/WindTurbine/WindTurbine.Folktails.blueprint",
       "Buildings/Wood/WoodWorkshop/WoodWorkshop.Folktails.blueprint",
       "Buildings/Food/Bakery/Bakery.Folktails.blueprint",
-      // "Buildings/Paths/Platform/Platform.Folktails.blueprint",
-      // "Buildings/Paths/DoublePlatform/DoublePlatform.Folktails.blueprint",
-      // "Buildings/Paths/TriplePlatform/TriplePlatform.Folktails.blueprint"
+      "Buildings/Paths/Tubeway/Tubeway.IronTeeth.blueprint",
+      "Buildings/Paths/TubewayStation/TubewayStation.IronTeeth.blueprint",
+      "Buildings/Paths/VerticalTubeway/VerticalTubeway.IronTeeth.blueprint",
+      "Buildings/Paths/Tubeway/TubewayStation.Tiny.IronTeeth.blueprint"
     ]
   }
 }

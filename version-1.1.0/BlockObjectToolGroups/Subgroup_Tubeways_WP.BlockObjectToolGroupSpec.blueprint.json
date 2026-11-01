@@ -1,0 +1,26 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Subgroup_Tubeways_WP",
+    "Order": 5,
+    "NameLocKey": "Souvy.Tubeways_Subgroup_WP.DisplayName",
+    "Icon": "Buildings/Paths/TubewayStation/TubewayStationIcon",
+    "FallbackGroup": false
+  },
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames": [
+      "Tubeway.IronTeeth",
+      "TubewayStation.IronTeeth",
+      "TubewayStation.Tiny.IronTeeth",
+      "VerticalTubeway.IronTeeth",
+      "ImpermeableTubeway.IronTeeth"
+    ],
+    "ChildrenOrderedIds": [
+      "Tubeway.IronTeeth",
+      "TubewayStation.IronTeeth",
+      "TubewayStation.Tiny.IronTeeth",
+      "VerticalTubeway.IronTeeth",
+      "ImpermeableTubeway.IronTeeth"
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  }
+}

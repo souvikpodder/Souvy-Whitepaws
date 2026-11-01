@@ -10,5 +10,9 @@
       "MinimumVersion": "6.0.9"
     }
   ],
-  "OptionalMods": []
+  "OptionalMods": [
+    {
+      "Id": "BobingaboutTinyTubewayStation"
+    }
+  ]
 }
