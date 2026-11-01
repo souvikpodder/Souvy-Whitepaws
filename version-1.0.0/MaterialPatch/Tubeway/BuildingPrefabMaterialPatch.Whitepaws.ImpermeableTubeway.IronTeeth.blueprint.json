@@ -24,14 +24,6 @@
         "NewMaterialName": "PaintedMetal.Whitepaws"
       },
       {
-        "MaterialName": "Paper.IronTeeth",
-        "NewMaterialName": "Paper_white.Whitepaws"
-      },
-      {
-        "MaterialName": "Paper.Folktails",
-        "NewMaterialName": "Paper_white.Whitepaws"
-      },
-      {
         "MaterialName": "PaintedMetal.Folktails",
         "NewMaterialName": "PaintedMetal.Whitepaws"
       },
@@ -48,8 +40,8 @@
         "NewMaterialName": "Pink_wood.Whitepaws"
       },
       {
-        "MaterialName": "ThatchedRoof.Folktails",
-        "NewMaterialName": "GrassRoof.Whitepaws"
+        "MaterialName": "BaseMetal.Folktails",
+        "NewMaterialName": "BaseMetal_Gold.Whitepaws"
       },
       {
         "MaterialName": "BaseWoodCommon",
@@ -58,6 +50,10 @@
       {
         "MaterialName": "BaseWoodCommon_Amber",
         "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "Plaster_Black.Emberpelts",
+        "NewMaterialName": "BaseWood_White.Folktails"
       },
       {
         "MaterialName": "BaseWood_Brown.Emberpelts",

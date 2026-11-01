@@ -4,10 +4,6 @@
     "PrefabName": "TubewayStation.Tiny.IronTeeth",
     "MaterialEntries": [
       {
-        "MaterialName": "WindowsAtlas.IronTeeth",
-        "NewMaterialName": "CustomWindow3.Whitepaws"
-      },
-      {
         "MaterialName": "BaseMetal.IronTeeth",
         "NewMaterialName": "BaseMetal_Gold.Whitepaws"
       },
@@ -24,40 +20,12 @@
         "NewMaterialName": "Pink_wood.Whitepaws"
       },
       {
-        "MaterialName": "RoofPlanks.IronTeeth",
-        "NewMaterialName": "GrassRoof.Whitepaws"
-      },
-      {
-        "MaterialName": "Clock.IronTeeth",
-        "NewMaterialName": "Details.Whitepaws"
-      },
-      {
-        "MaterialName": "Details.IronTeeth",
-        "NewMaterialName": "Details.Whitepaws"
-      },
-      {
         "MaterialName": "PaintedMetal.IronTeeth",
         "NewMaterialName": "PaintedMetal.Whitepaws"
       },
       {
-        "MaterialName": "Paper.IronTeeth",
-        "NewMaterialName": "Paper_white.Whitepaws"
-      },
-      {
-        "MaterialName": "WindowsAtlas.Folktails",
-        "NewMaterialName": "CustomWindow3.Whitepaws"
-      },
-      {
-        "MaterialName": "Paper.Folktails",
-        "NewMaterialName": "Paper_white.Whitepaws"
-      },
-      {
         "MaterialName": "PaintedMetal.Folktails",
         "NewMaterialName": "PaintedMetal.Whitepaws"
-      },
-      {
-        "MaterialName": "Details.Folktails",
-        "NewMaterialName": "Details.Whitepaws"
       },
       {
         "MaterialName": "BaseWood_White.Folktails",
@@ -70,10 +38,6 @@
       {
         "MaterialName": "IrregularPlanks_Brown.Folktails",
         "NewMaterialName": "Pink_wood.Whitepaws"
-      },
-      {
-        "MaterialName": "ThatchedRoof.Folktails",
-        "NewMaterialName": "GrassRoof.Whitepaws"
       },
       {
         "MaterialName": "BaseMetal.Folktails",
@@ -100,16 +64,8 @@
         "NewMaterialName": "Pink_wood.Whitepaws"
       },
       {
-        "MaterialName": "RoofPlanks2.Emberpelts",
-        "NewMaterialName": "GrassRoof.Whitepaws"
-      },
-      {
         "MaterialName": "BaseWood_DarkRed.Emberpelts",
         "NewMaterialName": "Pink_wood.Whitepaws"
-      },
-      {
-        "MaterialName": "WindowsAtlas2.Emberpelts",
-        "NewMaterialName": "CustomWindow3.Whitepaws"
       },
       {
         "MaterialName": "BaseMetal.Emberpelts",
