@@ -3,7 +3,7 @@
     "Effects": [
       {
         "NeedId": "MinorBurns",
-        "PointsPerHour": 0.5,
+        "PointsPerHour": 0.1,
         "SatisfyToMaxValue": false
       }
     ]

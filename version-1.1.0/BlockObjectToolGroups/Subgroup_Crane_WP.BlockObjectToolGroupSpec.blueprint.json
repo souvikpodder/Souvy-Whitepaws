@@ -1,0 +1,24 @@
+{
+  "BlockObjectToolGroupSpec": {
+    "Id": "Subgroup_Crane_WP",
+    "Order": 20,
+    "NameLocKey": "Souvy.Subgroup_Crane_WP.DisplayName",
+    "Icon": "Buildings/DistrictManagement/Crane/CraneIcon",
+    "FallbackGroup": false
+  },
+  "ToolGroupChildrenSpec": {
+    "ChildrenToolsTemplateNames": [
+      "Crane.Folktails",
+      "CraneSection.Folktails",
+      "Jib.Folktails",
+      "Trebuchet.Folktails",
+      "CranetopWindmill.Folktails"
+    ],
+    "DoNotIncludePlaceableToolGroup": true
+  },
+  "ParentToolGroupSpec": {
+    "ParentIds": [
+      "Village"
+    ]
+  }
+}

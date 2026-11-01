@@ -102,8 +102,7 @@
     "CarryingAnimation": "CarryInHands",
     "Weight": 1,
     "GoodGroupId": "Food",
-    "GoodOrder": 900070,
-    "ForceImport": true,
+    "ForceImport": false,
     "Icon": "Sprites/Goods/BentoIcon_WP"
   }
 }
