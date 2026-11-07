@@ -1,0 +1,124 @@
+{
+  "BuildingPrefabMaterialPatchSpec": {
+    "FactionID": "Whitepaws",
+    "PrefabName": "ImpermeableTubeway.IronTeeth",
+    "MaterialEntries": [
+      {
+        "MaterialName": "BaseMetal.IronTeeth",
+        "NewMaterialName": "BaseMetal_Gold.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseWood_Indigo.IronTeeth",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseWood_DarkBrown.IronTeeth",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseWood_Grey.IronTeeth",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "WindowsAtlas.IronTeeth",
+        "NewMaterialName": "CustomWindow3.Whitepaws"
+      },
+      {
+        "MaterialName": "PaintedMetal.IronTeeth",
+        "NewMaterialName": "PaintedMetal.Whitepaws"
+      },
+      {
+        "MaterialName": "RoofPlanks.IronTeeth",
+        "NewMaterialName": "GrassRoof.Whitepaws"
+      },
+      {
+        "MaterialName": "Clock.IronTeeth",
+        "NewMaterialName": "Details.Whitepaws"
+      },
+      {
+        "MaterialName": "Details.IronTeeth",
+        "NewMaterialName": "Details.Whitepaws"
+      },
+      {
+        "MaterialName": "Paper.IronTeeth",
+        "NewMaterialName": "Paper_white.Whitepaws"
+      },
+      {
+        "MaterialName": "WindowsAtlas.Folktails",
+        "NewMaterialName": "CustomWindow3.Whitepaws"
+      },
+      {
+        "MaterialName": "Paper.Folktails",
+        "NewMaterialName": "Paper_white.Whitepaws"
+      },
+      {
+        "MaterialName": "PaintedMetal.Folktails",
+        "NewMaterialName": "PaintedMetal.Whitepaws"
+      },
+      {
+        "MaterialName": "Details.Folktails",
+        "NewMaterialName": "Details.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseWood_White.Folktails",
+        "NewMaterialName": "BaseWood_White.Folktails"
+      },
+      {
+        "MaterialName": "BaseWood_Brown.Folktails",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "IrregularPlanks_Brown.Folktails",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "ThatchedRoof.Folktails",
+        "NewMaterialName": "GrassRoof.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseMetal.Folktails",
+        "NewMaterialName": "BaseMetal_Gold.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseWoodCommon",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseWoodCommon_Amber",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "Dirt",
+        "NewMaterialName": "BaseWood_White.Folktails"
+      },
+      {
+        "MaterialName": "Plaster_Black.Emberpelts",
+        "NewMaterialName": "BaseWood_White.Folktails"
+      },
+      {
+        "MaterialName": "BaseWood_Brown.Emberpelts",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "IrregularPlanks_White.Emberpelts",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "RoofPlanks2.Emberpelts",
+        "NewMaterialName": "GrassRoof.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseWood_DarkRed.Emberpelts",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "WindowsAtlas2.Emberpelts",
+        "NewMaterialName": "CustomWindow3.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseMetal.Emberpelts",
+        "NewMaterialName": "BaseMetal_Gold.Whitepaws"
+      }
+    ]
+  }
+}

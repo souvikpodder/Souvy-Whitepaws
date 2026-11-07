@@ -66,7 +66,6 @@
       "Knatte/Buildings/Floodgates/MetalFloodgate10.Folktails.blueprint",
       "Buildings/Landscaping/LVSluice/Sluice.Folktails.blueprint",
       "Buildings/Landscaping/Dam/Dam.Folktails.blueprint",
-      // "Buildings/Landscaping/Levee/Levee.Folktails.blueprint",
       "Buildings/Landscaping/ImpermeableFloor/ImpermeableFloor.Folktails.blueprint",
       "Buildings/Power/LargeWindTurbine/LargeWindTurbine.Folktails.blueprint",
       "Buildings/Power/WindTurbine/WindTurbine.Folktails.blueprint",
@@ -78,7 +77,8 @@
       "Buildings/Paths/Tubeway/TubewayLevee.IronTeeth.blueprint",
       "Buildings/Paths/Tubeway/TubewayStation.Tiny.IronTeeth.blueprint",
       "Buildings/VerticalTubewayTunnel.Whitepaws.blueprint",
-      "Buildings/TubewayLeveeTunnel.Whitepaws.blueprint"
+      "Buildings/TubewayLeveeTunnel.Whitepaws.blueprint",
+      "Buildings/Paths/Tubeway/ImpermeableTubeway.IronTeeth.blueprint"
     ]
   }
 }
