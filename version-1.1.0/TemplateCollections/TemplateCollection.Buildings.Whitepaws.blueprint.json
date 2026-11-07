@@ -39,8 +39,7 @@
       "Buildings/Paths/Tubeway/TubewayLevee.IronTeeth.blueprint",
       "Buildings/Paths/Tubeway/TubewayStation.Tiny.IronTeeth.blueprint",
       "Buildings/VerticalTubewayTunnel.Whitepaws.blueprint",
-      "Buildings/TubewayLeveeTunnel.Whitepaws.blueprint",
-      "Buildings/Paths/Tubeway/ImpermeableTubeway.IronTeeth.blueprint"
+      "Buildings/TubewayLeveeTunnel.Whitepaws.blueprint"
     ]
   }
 }
