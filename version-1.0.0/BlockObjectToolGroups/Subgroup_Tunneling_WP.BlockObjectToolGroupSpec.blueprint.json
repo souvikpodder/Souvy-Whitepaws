@@ -11,13 +11,17 @@
             "Tunnel.Whitepaws",
             "LadderTunnel.Whitepaws",
             "UPath.Whitepaws",
-            "LeveeTunnel.Whitepaws"
+            "LeveeTunnel.Whitepaws",
+            "VerticalTubewayTunnel.Whitepaws",
+            "ImpermeableTubewayTunnel.Whitepaws"
         ],
         "ChildrenOrderedIds": [
             "UPath.Whitepaws",
             "Tunnel.Whitepaws",
             "LadderTunnel.Whitepaws",
-            "LeveeTunnel.Whitepaws"
+            "LeveeTunnel.Whitepaws",
+            "VerticalTubewayTunnel.Whitepaws",
+            "ImpermeableTubewayTunnel.Whitepaws"
         ],
         "DoNotIncludePlaceableToolGroup": true
     }
