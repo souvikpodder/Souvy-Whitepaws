@@ -1,7 +1,7 @@
 {
   "BuildingPrefabMaterialPatchSpec": {
     "FactionID": "Whitepaws",
-    "PrefabName": "ImpermeableTubeway.IronTeeth",
+    "PrefabName": "TubewayLevee.IronTeeth",
     "MaterialEntries": [
       {
         "MaterialName": "BaseMetal.IronTeeth",

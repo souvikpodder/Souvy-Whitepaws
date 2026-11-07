@@ -75,10 +75,10 @@
       "Buildings/Paths/Tubeway/Tubeway.IronTeeth.blueprint",
       "Buildings/Paths/TubewayStation/TubewayStation.IronTeeth.blueprint",
       "Buildings/Paths/VerticalTubeway/VerticalTubeway.IronTeeth.blueprint",
-      "Buildings/Paths/ImpermeableTubeway/ImpermeableTubeway.IronTeeth.blueprint",
+      "Buildings/Paths/Tubeway/TubewayLevee.IronTeeth.blueprint",
       "Buildings/Paths/Tubeway/TubewayStation.Tiny.IronTeeth.blueprint",
       "Buildings/VerticalTubewayTunnel.Whitepaws.blueprint",
-      "Buildings/ImpermeableTubewayTunnel.Whitepaws.blueprint"
+      "Buildings/TubewayLeveeTunnel.Whitepaws.blueprint"
     ]
   }
 }

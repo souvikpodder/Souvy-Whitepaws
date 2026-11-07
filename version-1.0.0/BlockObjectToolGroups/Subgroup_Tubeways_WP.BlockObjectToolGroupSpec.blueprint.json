@@ -12,18 +12,18 @@
       "TubewayStation.IronTeeth",
       "TubewayStation.Tiny.IronTeeth",
       "VerticalTubeway.IronTeeth",
-      "ImpermeableTubeway.IronTeeth",
+      "TubewayLevee.IronTeeth",
       "VerticalTubewayTunnel.Whitepaws",
-      "ImpermeableTubewayTunnel.Whitepaws"
+      "TubewayLeveeTunnel.Whitepaws"
     ],
     "ChildrenOrderedIds": [
       "TubewayStation.IronTeeth",
       "TubewayStation.Tiny.IronTeeth",
       "Tubeway.IronTeeth",
       "VerticalTubeway.IronTeeth",
-      "ImpermeableTubeway.IronTeeth",
+      "TubewayLevee.IronTeeth",
       "VerticalTubewayTunnel.Whitepaws",
-      "ImpermeableTubewayTunnel.Whitepaws"
+      "TubewayLeveeTunnel.Whitepaws"
     ],
     "DoNotIncludePlaceableToolGroup": true
   }

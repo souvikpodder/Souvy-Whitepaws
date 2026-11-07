@@ -4,20 +4,20 @@
     "LoopingSoundName": "",
     "BuildingCost": [
       {
-        "Id": "Explosives",
-        "Amount": 1
+        "Id": "Log",
+        "Amount": 12
       },
       {
         "Id": "Plank",
         "Amount": 4
       },
       {
-        "Id": "Gear",
-        "Amount": 2
+        "Id": "MetalBlock",
+        "Amount": 1
       },
       {
-        "Id": "MetalBlock",
-        "Amount": 2
+        "Id": "Explosives",
+        "Amount": 1
       }
     ],
     "ScienceCost": 800,
@@ -34,8 +34,10 @@
     "UndergroundModelDepth": 0
   },
   "TemplateSpec": {
-    "TemplateName": "ImpermeableTubewayTunnel.Whitepaws",
-    "BackwardCompatibleTemplateNames": [],
+    "TemplateName": "TubewayLeveeTunnel.Whitepaws",
+    "BackwardCompatibleTemplateNames": [
+      "ImpermeableTubewayTunnel.Whitepaws"
+    ],
     "RequiredFeatureToggle": "",
     "DisablingFeatureToggle": ""
   },
@@ -89,10 +91,10 @@
     "DevModeTool": false
   },
   "LabeledEntitySpec": {
-    "DisplayNameLocKey": "Building.Souvy.ImpermeableTubewayTunnel.DisplayName",
-    "DescriptionLocKey": "Building.Souvy.ImpermeableTubewayTunnel.Description",
+    "DisplayNameLocKey": "Building.Souvy.TubewayLeveeTunnel.DisplayName",
+    "DescriptionLocKey": "Building.Souvy.TubewayLeveeTunnel.Description",
     "FlavorDescriptionLocKey": "",
-    "Icon": "Icon/ImpermeableTubewayTunnelIcon"
+    "Icon": "Icon/TubewayLeveeTunnelIcon"
   },
   "ConstructionSiteProgressVisualizerSpec": {
     "ProgressThresholds": [
@@ -101,7 +103,7 @@
   },
   "TunnelSpec": {
     "ExplosionPrefabPath": "Buildings/Landscaping/Tunnel/TunnelExplosion",
-    "TunnelSupportTemplateName": "ImpermeableTubeway.IronTeeth"
+    "TunnelSupportTemplateName": "TubewayLevee.IronTeeth"
   },
   "UncoveredModelSwitcherSpec": {
     "FullModelName": "#Full",
