@@ -91,7 +91,7 @@
     "DisplayNameLocKey": "Building.Souvy.VerticalTubewayTunnel.DisplayName",
     "DescriptionLocKey": "Building.Souvy.VerticalTubewayTunnel.Description",
     "FlavorDescriptionLocKey": "",
-    "Icon": "Buildings/Paths/VerticalTubeway/VerticalTubewayIcon"
+    "Icon": "Icon/VerticalTubewayTunnelIcon"
   },
   "ConstructionSiteProgressVisualizerSpec": {
     "ProgressThresholds": [

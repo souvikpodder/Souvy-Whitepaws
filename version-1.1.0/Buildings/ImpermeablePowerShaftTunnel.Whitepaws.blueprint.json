@@ -95,7 +95,7 @@
     "DisplayNameLocKey": "Building.Souvy.ImpermeablePowerShaftTunnel.DisplayName",
     "DescriptionLocKey": "Building.Souvy.ImpermeablePowerShaftTunnel.Description",
     "FlavorDescriptionLocKey": "",
-    "Icon": "Icon/UPowerLeveeTunnelIcon"
+    "Icon": "Icon/ImpermeablePowerShaftTunnelIcon"
   },
   "ConstructionSiteProgressVisualizerSpec": {
     "ProgressThresholds": [

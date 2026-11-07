@@ -92,7 +92,7 @@
     "DisplayNameLocKey": "Building.Souvy.ImpermeableTubewayTunnel.DisplayName",
     "DescriptionLocKey": "Building.Souvy.ImpermeableTubewayTunnel.Description",
     "FlavorDescriptionLocKey": "",
-    "Icon": "Buildings/Paths/ImpermeableTubeway/ImpermeableTubewayTubewayIcon"
+    "Icon": "Icon/ImpermeableTubewayTunnelIcon"
   },
   "ConstructionSiteProgressVisualizerSpec": {
     "ProgressThresholds": [

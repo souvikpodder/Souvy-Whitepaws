@@ -151,7 +151,7 @@
     "DisplayNameLocKey": "Building.Souvy.LadderTunnel.DisplayName",
     "DescriptionLocKey": "Building.Souvy.LadderTunnel.Description",
     "FlavorDescriptionLocKey": "",
-    "Icon": "Buildings/Paths/Ladder/LadderIcon"
+    "Icon": "Icon/LadderTunnelIcon"
   },
   "ConstructionSiteProgressVisualizerSpec": {
     "ProgressThresholds": [
