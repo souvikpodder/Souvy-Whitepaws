@@ -21,7 +21,7 @@
       },
       {
         "MaterialName": "WindowsAtlas.IronTeeth",
-        "NewMaterialName": "CustomWindow3.Whitepaws"
+        "NewMaterialName": "BaseWood_White.Folktails"
       },
       {
         "MaterialName": "PaintedMetal.IronTeeth",
@@ -45,7 +45,7 @@
       },
       {
         "MaterialName": "WindowsAtlas.Folktails",
-        "NewMaterialName": "CustomWindow3.Whitepaws"
+        "NewMaterialName": "BaseWood_White.Folktails"
       },
       {
         "MaterialName": "Paper.Folktails",
@@ -113,7 +113,7 @@
       },
       {
         "MaterialName": "WindowsAtlas2.Emberpelts",
-        "NewMaterialName": "CustomWindow3.Whitepaws"
+        "NewMaterialName": "BaseWood_White.Folktails"
       },
       {
         "MaterialName": "BaseMetal.Emberpelts",
