@@ -102,6 +102,26 @@
       {
         "MaterialName": "Paper.Folktails",
         "NewMaterialName": "Paper_white.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseWood_DarkBrown",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "BaseWood_Brown",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "DarkBrown",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "IrregularPlanks_DarkBrown",
+        "NewMaterialName": "Pink_wood.Whitepaws"
+      },
+      {
+        "MaterialName": "IrregularPlanks_DarkBrown.IronTeeth",
+        "NewMaterialName": "Pink_wood.Whitepaws"
       }
     ]
   }
