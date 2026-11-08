@@ -20,44 +20,12 @@
         "NewMaterialName": "Pink_wood.Whitepaws"
       },
       {
-        "MaterialName": "WindowsAtlas.IronTeeth",
-        "NewMaterialName": "WindowsAtlas.Folktails"
-      },
-      {
         "MaterialName": "PaintedMetal.IronTeeth",
         "NewMaterialName": "PaintedMetal.Whitepaws"
       },
       {
-        "MaterialName": "RoofPlanks.IronTeeth",
-        "NewMaterialName": "GrassRoof.Whitepaws"
-      },
-      {
-        "MaterialName": "Clock.IronTeeth",
-        "NewMaterialName": "Details.Whitepaws"
-      },
-      {
-        "MaterialName": "Details.IronTeeth",
-        "NewMaterialName": "Details.Whitepaws"
-      },
-      {
-        "MaterialName": "Paper.IronTeeth",
-        "NewMaterialName": "Paper_white.Whitepaws"
-      },
-      {
-        "MaterialName": "WindowsAtlas.Folktails",
-        "NewMaterialName": "WindowsAtlas.Folktails"
-      },
-      {
-        "MaterialName": "Paper.Folktails",
-        "NewMaterialName": "Paper_white.Whitepaws"
-      },
-      {
         "MaterialName": "PaintedMetal.Folktails",
         "NewMaterialName": "PaintedMetal.Whitepaws"
-      },
-      {
-        "MaterialName": "Details.Folktails",
-        "NewMaterialName": "Details.Whitepaws"
       },
       {
         "MaterialName": "BaseWood_White.Folktails",
@@ -72,10 +40,6 @@
         "NewMaterialName": "Pink_wood.Whitepaws"
       },
       {
-        "MaterialName": "ThatchedRoof.Folktails",
-        "NewMaterialName": "GrassRoof.Whitepaws"
-      },
-      {
         "MaterialName": "BaseMetal.Folktails",
         "NewMaterialName": "BaseMetal_Gold.Whitepaws"
       },
@@ -86,10 +50,6 @@
       {
         "MaterialName": "BaseWoodCommon_Amber",
         "NewMaterialName": "Pink_wood.Whitepaws"
-      },
-      {
-        "MaterialName": "Dirt",
-        "NewMaterialName": "BaseWood_White.Folktails"
       },
       {
         "MaterialName": "Plaster_Black.Emberpelts",
@@ -104,16 +64,8 @@
         "NewMaterialName": "Pink_wood.Whitepaws"
       },
       {
-        "MaterialName": "RoofPlanks2.Emberpelts",
-        "NewMaterialName": "GrassRoof.Whitepaws"
-      },
-      {
         "MaterialName": "BaseWood_DarkRed.Emberpelts",
         "NewMaterialName": "Pink_wood.Whitepaws"
-      },
-      {
-        "MaterialName": "WindowsAtlas2.Emberpelts",
-        "NewMaterialName": "WindowsAtlas.Folktails"
       },
       {
         "MaterialName": "BaseMetal.Emberpelts",

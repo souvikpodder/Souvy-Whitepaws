@@ -24,14 +24,6 @@
         "NewMaterialName": "Pink_wood.Whitepaws"
       },
       {
-        "MaterialName": "WindowsAtlas.IronTeeth",
-        "NewMaterialName": "BaseWood_White.Folktails"
-      },
-      {
-        "MaterialName": "WindowsAtlas.Folktails",
-        "NewMaterialName": "BaseWood_White.Folktails"
-      },
-      {
         "MaterialName": "BaseMetal.IronTeeth",
         "NewMaterialName": "BaseMetal_Gold.Whitepaws"
       },
@@ -90,18 +82,6 @@
       {
         "MaterialName": "BaseWood_DarkRed.Emberpelts",
         "NewMaterialName": "Pink_wood.Whitepaws"
-      },
-      {
-        "MaterialName": "RoofPlanks.IronTeeth",
-        "NewMaterialName": "GrassRoof.Whitepaws"
-      },
-      {
-        "MaterialName": "RoofPlanks2.Emberpelts",
-        "NewMaterialName": "GrassRoof.Whitepaws"
-      },
-      {
-        "MaterialName": "ThatchedRoof.Folktails",
-        "NewMaterialName": "GrassRoof.Whitepaws"
       },
       {
         "MaterialName": "Clock.IronTeeth",
